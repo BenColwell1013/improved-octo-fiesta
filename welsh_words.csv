@@ -1,0 +1,4061 @@
+cymraeg,cymraeg_id,saesneg,saesneg_id
+cael,1,to have,1
+dywedyd,2,to say,2
+gwneud,3,to do,3
+gweld,4,to see,4
+adnabod,5,to know,5
+cymryd,6,to take,6
+llefaru,7,to speak,7
+breuddwydio,8,to dream,8
+credu,9,to believe,9
+cyrraedd,10,to arrive,10
+diwrnod,11,day,11
+dyn,12,man,12
+gwraig,13,woman,13
+llygad,14,eye,14
+bwrdd,15,table,15
+llaw,16,hand,16
+amser,17,time,17
+plentyn,18,child,18
+peth,19,thing,19
+tad,20,father,20
+mwy,21,more,21
+bach,22,small,22
+hir,23,long,23
+mawr,24,large,24
+unig,25,alone,25
+iach,26,well,26
+iawn,27,right,27
+hen,28,old,28
+eto,29,still,29
+holl,30,all,30
+gwin,31,wine,31
+pen,32,head,32
+awr,33,hour,33
+blwyddyn,34,year,34
+nos,35,night,35
+byd,36,world,36
+noswaith,37,evening,37
+annedd,38,house,38
+llais,39,voice,39
+drws,40,door,40
+meddwl,41,to think,41
+rhedeg,42,to run,42
+holi,43,to ask,43
+gosod,44,to put,44
+darganfod,45,to find,45
+gadael,46,to leave,46
+rhoddi,47,to give,47
+aros,48,to remain,48
+cadw,49,to hold,49
+cyfrif,50,to  calculate,50
+mam,51,mother,51
+mellt,52,lightning,52
+lle,53,room,53
+derbyniad,54,receipt,54
+gair,55,word,55
+awyrgylch,56,air,56
+serch,57,love,57
+siocled,58,chocolate,58
+pobl,59,people,59
+gafr,60,goat,60
+un,61,one,61
+ieuanc,62,young,62
+gwyn,63,white,63
+hefyd,64,also,64
+neu,65,or,65
+du,66,black,66
+ugain,67,twenty,67
+newydd,68,new,68
+coch,69,red,69
+ie,70,yes,70
+bore,71,morning,71
+ofn,72,fear,72
+mur,73,wall,73
+wyneb,74,face,74
+ochr,75,side,75
+troed,76,foot,76
+mochyn,77,pig,77
+dwfr,78,water,78
+gwely,79,bed,79
+braich,80,arm,80
+gwenieithio,81,to  flatter,81
+teimlo,82,to feel,82
+clywed,83,to hear,83
+deall,84,to understand,84
+byw,85,to live,85
+agor,86,to open,86
+trigo,87,to die,87
+atal,88,to stop,88
+cydsynio,89,to consent,89
+colli,90,to lose,90
+glan,91,shore,91
+corff,92,body,92
+dymuniad,93,desire,93
+te,94,tea,94
+march,95,horse,95
+heol,96,street,96
+tasg,97,job,97
+daear,98,earth,98
+cipolwg,99,glance,99
+llyfr,100,book,100
+siwr,101,sure,101
+uchel,102,high,102
+hyd,103,until,103
+cyflawn,104,full,104
+oni,105,unless,105
+efallai,106,perhaps,106
+arall,107,other,107
+isel,108,low,108
+agos,109,near,109
+paham,110,why,110
+drychfeddwl,111,idea,111
+ceudod,112,heart,112
+gwallt,113,hair,113
+cerbyd,114,car,114
+esgid,115,boot,115
+chwedl,116,story,116
+mis,117,month,117
+tylwyth,118,family,118
+hwyad,119,duck,119
+mab,120,son,120
+canlyn,121,to follow,121
+tynnu,122,to draw,122
+cario,123,to carry,123
+gweddu,124,to become,124
+disgwyl,125,to expect,125
+diweddu,126,to finish,126
+dechrau,127,to begin,127
+cwympo,128,to fall,128
+chwerthin,129,to laugh,129
+gobeithio,130,to hope,130
+haul,131,sun,131
+cyfaill,132,friend,132
+hyfrydwch,133,pleasure,133
+arian,134,money,134
+ffaith,135,fact,135
+meddyg,136,doctor,136
+poen,137,pain,137
+bachgen,138,boy,138
+ffenestr,139,window,139
+enw,140,name,140
+gwag,141,empty,141
+llai,142,less,142
+glas,143,blue,143
+eisoes,144,already,144
+yma,145,here,145
+tlawd,146,poor,146
+dedwydd,147,happy,147
+glanwaith,148,clean,148
+bron,149,almost,149
+gwell,150,better,150
+marchnad,151,market,151
+cymydog,152,neighbor,152
+llaeth,153,milk,153
+bai,154,fault,154
+oed,155,age,155
+diwedd,156,end,156
+finegr,157,vinegar,157
+gwydr,158,glass,158
+tref,159,town,159
+twrf,160,noise,160
+rhodio,161,to walk,161
+ceisio,162,to seek,162
+lluchio,163,to throw,163
+anghofio,164,to forget,164
+galw,165,to call,165
+chwarae,166,to play,166
+darllen,167,to read,167
+codi,168,to raise,168
+huno,169,to sleep,169
+profi,170,to try,170
+ci,171,dog,171
+sebon,172,soap,172
+coedwig,173,forest,173
+taw,174,silence,174
+coed,175,wood,175
+wy,176,egg,176
+chwaer,177,sister,177
+gwaith,178,work,178
+llythyren,179,letter,179
+cysgod,180,shadow,180
+ag,181,with,181
+tew,182,fat,182
+gwyrdd,183,green,183
+llwyd,184,grey,184
+uwch,185,over,185
+digon,186,enough,186
+cryf,187,strong,187
+mynych,188,often,188
+eglur,189,clear,189
+gwir,190,TRUE,190
+eisiau,191,need,191
+pwyll,192,sense,192
+petruster,193,doubt,193
+carped,194,carpet,194
+pili-pala,195,butterfly,195
+trwyn,196,nose,196
+wythnos,197,week,197
+ael,198,eyebrow,198
+carreg,199,stone,199
+merch,200,woman,200
+ysu,201,to eat,201
+ysgrifennu,202,to write,202
+gwthio,203,to push,203
+dysgu,204,to learn,204
+penderfynu,205,to decide,205
+eistedd,206,to sit,206
+ateb,207,to reply,207
+cynnig,208,to offer,208
+ennill,209,to win,209
+ymgomio,210,to converse,210
+ysgwydd,211,shoulder,211
+pren,212,tree,212
+arwydd,213,sign,213
+bagl,214,leg,214
+ffynidwydden,215,fir,215
+bara,216,bread,216
+dosbarth,217,class,217
+broga,218,frog,218
+newyddiadur,219,newspaper,219
+chwarae,220,game,220
+gorau,221,best,221
+hwyr,222,late,222
+anodd,223,difficult,223
+da,224,good,224
+pell,225,far,225
+agored,226,open,226
+caled,227,hard,227
+trwm,228,heavy,228
+melyn,229,yellow,229
+aswy,230,left,230
+eiliad,231,instant,231
+cefn,232,back,232
+trefn,233,method,233
+swydd,234,office,234
+cegin,235,kitchen,235
+brawd,236,brother,236
+gardd,237,garden,237
+ystafell,238,room,238
+awyr,239,air,239
+prynhawn,240,afternoon,240
+newid,241,to change,241
+llithro,242,to slide,242
+gwasanaethu,243,to serve,243
+derbyn,244,to receive,244
+taro,245,to strike,245
+esbonio,246,to explain,246
+wylo,247,to weep,247
+gwybod,248,to know,248
+siarad,249,to speak,249
+coelio,250,to believe,250
+ysbyty,251,hospital,251
+nain,252,grandmother,252
+rhyfel,253,war,253
+priodferch,254,bride,254
+rhew,255,ice,255
+glin,256,knee,256
+llun,257,image,257
+gwal,258,wall,258
+gwir,259,truth,259
+hawlfraint,260,copyright,260
+parod,261,ready,261
+annwyl,262,dear,262
+llonydd,263,still,263
+cynddeiriog,264,mad,264
+syml,265,simple,265
+rhad,266,free,266
+am,267,around,267
+ysgafn,268,light,268
+meddal,269,soft,269
+poeth,270,hot,270
+ymadrodd,271,speech,271
+angau,272,death,272
+gwisg,273,dress,273
+gaeaf,274,winter,274
+gofyniad,275,question,275
+traeth,276,shore,276
+chwant,277,desire,277
+llawr,278,earth,278
+cist,279,box,279
+damwain,280,chance,280
+datgan,281,to recount,281
+dynesu,282,to approach,282
+dangos,283,to show,283
+yswirio,284,to assure,284
+rhifo,285,to count,285
+pwyso,286,to lean,286
+llosgi,287,to burn,287
+talu,288,to pay,288
+ymddangos,289,to appear,289
+prynu,290,to buy,290
+tramwyfa,291,passage,291
+deilen,292,leaf,292
+ffordd,293,route,293
+brenin,294,king,294
+syniad,295,idea,295
+calon,296,heart,296
+gwraig,297,wife,297
+hanes,298,story,298
+teulu,299,family,299
+swp,300,parcel,300
+sych,301,dry,301
+budr,302,dirty,302
+tebyg,303,similar,303
+ynghyd,304,together,304
+llawn,305,full,305
+twyllodrus,306,FALSE,306
+oer,307,cold,307
+gerllaw,308,near,308
+byr,309,short,309
+heddiw,310,today,310
+dygwyl,311,holiday,311
+cwsg,312,sleep,312
+genau,313,mouth,313
+mesur,314,measure,314
+priodas,315,marriage,315
+golau,316,light,316
+dant,317,tooth,317
+budd,318,interest,318
+hydref,319,fall,319
+glaw,320,rain,320
+clirio,321,to clear,321
+achub,322,to seize,322
+gwarafun,323,to refuse,323
+gofyn,324,to ask,324
+ymadael,325,to leave,325
+anrhegu,326,to give,326
+dal,327,to hold,327
+clandro,328,to  calculate,328
+ymagor,329,to open,329
+dewis,330,to choose,330
+llen,331,curtain,331
+wybren,332,sky,332
+bad,333,boat,333
+gosgordd,334,train,334
+lle,335,place,335
+clun,336,hip,336
+terfyn,337,end,337
+rheswm,338,reason,338
+oen,339,lamb,339
+awel,340,wind,340
+bach,341,little,341
+pob,342,each,342
+hir,343,tall,343
+pwysig,344,important,344
+prysur,345,serious,345
+unig,346,only,346
+anadnabyddus,347,strange,347
+iawn,348,very,348
+islaw,349,below,349
+mewnol,350,inside,350
+cynghanedd,351,music,351
+bys,352,finger,352
+cadair,353,chair,353
+milwr,354,soldier,354
+llusern,355,lamp,355
+astudiaeth,356,study,356
+maint,357,number,357
+eglwys,358,church,358
+afon,359,river,359
+cyfeillgarwch,360,friendship,360
+marw,361,to die,361
+adeiladu,362,to build,362
+dioddef,363,to suffer,363
+sefyll,364,to stop,364
+crynu,365,to  tremble,365
+cronni,366,to congest,366
+torri,367,to cut,367
+dianc,368,to escape,368
+yfed,369,to drink,369
+gwisgo,370,to dress,370
+afal,371,apple,371
+gweithred,372,work,372
+llythyr,373,letter,373
+aur,374,gold,374
+taid,375,grandfather,375
+angen,376,need,376
+ystyr,377,sense,377
+niwl,378,fog,378
+amheuaeth,379,doubt,379
+heol,380,road,380
+braidd,381,almost,381
+claf,382,sick,382
+hawdd,383,easy,383
+doe,384,yesterday,384
+trist,385,sad,385
+diofal,386,careless,386
+yfory,387,tomorrow,387
+weithiau,388,sometimes,388
+sanctaidd,389,holy,389
+hurt,390,stupid,390
+gwroldeb,391,courage,391
+byrbryd,392,lunch,392
+cwningen,393,rabbit,393
+ysgol,394,school,394
+congl,395,corner,395
+munud,396,minute,396
+arglwyddes,397,lady,397
+ceudod,398,thought,398
+benyw,399,woman,399
+gobaith,400,hope,400
+diflannu,401,to disappear,401
+priodi,402,to marry,402
+gwerthu,403,to sell,403
+bwrw,404,to imagine,404
+amgylchu,405,to surround,405
+golchi,406,to wash,406
+cael,407,to find,407
+cludo,408,to carry,408
+gwneud,409,to make,409
+dyfod,410,to become,410
+gwddf,411,throat,411
+peiriant,412,machine,412
+porthladd,413,harbor,413
+gwasanaeth,414,service,414
+troed,415,leg,415
+arth,416,bear,416
+ateb,417,reply,417
+mab,418,boy,418
+cinio,419,dinner,419
+bachgen,420,son,420
+cywrain,421,curious,421
+tywyll,422,blind,422
+gwyllt,423,wild,423
+allan,424,out,424
+prin,425,scarce,425
+dirfawr,426,enormous,426
+amgen,427,otherwise,427
+distaw,428,quiet,428
+cariadus,429,dear,429
+cyffredin,430,ordinary,430
+ymweliad,431,visit,431
+cof,432,memory,432
+esgid,433,shoe,433
+asyn,434,donkey,434
+cil,435,back,435
+tir,436,land,436
+fforch,437,fork,437
+priod,438,husband,438
+barbwr,439,barber,439
+twll,440,hole,440
+cerdded,441,to walk,441
+atgofio,442,to  remember,442
+taflu,443,to throw,443
+rhegi,444,to swear,444
+hongian,445,to hang,445
+cau,446,to close,446
+peintio,447,to paint,447
+canu,448,to sing,448
+darganfod,449,to discover,449
+cysgu,450,to sleep,450
+llyfrgell,451,library,451
+genedigaeth,452,birth,452
+cenllysg,453,hail,453
+modryb,454,aunt,454
+het,455,hat,455
+ton,456,wave,456
+cath,457,cat,457
+delw,458,image,458
+buander,459,speed,459
+ewythr,460,uncle,460
+galluog,461,capable,461
+niferog,462,numerous,462
+rhydd,463,free,463
+buan,464,soon,464
+hyfryd,465,agreeable,465
+tew,466,thick,466
+llwyd,467,brown,467
+crai,468,fresh,468
+pum,469,five,469
+dychrynllyd,470,terrible,470
+gwirionedd,471,truth,471
+prawf,472,proof,472
+dysgi,473,dish,473
+modurdy,474,garage,474
+ymenyn,475,butter,475
+pwnc,476,question,476
+cynddaredd,477,rage,477
+penbleth,478,quandary,478
+cawrfil,479,elephant,479
+ceiriosen,480,cherry,480
+aros,481,to wait,481
+arbed,482,to save,482
+cymorth,483,to help,483
+gwahardd,484,to forbid,484
+gwarchod,485,to guard,485
+camu,486,to bend,486
+synnu,487,to astonish,487
+bwyta,488,to eat,488
+trigo,489,to dwell,489
+ymddiddan,490,to converse,490
+mynedfa,491,passage,491
+carchar,492,prison,492
+merch,493,girl,493
+masnachwr,494,merchant,494
+ebol,495,colt,495
+dedwyddwch,496,happiness,496
+ansawdd,497,nature,497
+pren,498,wood,498
+llo,499,calf,499
+darn,500,part,500
+amhosibl,501,impossible,501
+trychinebus,502,tragic,502
+gwir,503,really,503
+angenrheidiol,504,necessary,504
+heddychol,505,peaceful,505
+dyddiol,506,daily,506
+gau,507,FALSE,507
+chwech,508,six,508
+benywaidd,509,feminine,509
+doeth,510,wise,510
+cae,511,park,511
+gweinydd,512,waiter,512
+argraff,513,impression,513
+olew,514,oil,514
+caer,515,city,515
+copr,516,copper,516
+cog,517,cuckoo,517
+croen,518,skin,518
+cwymp,519,fall,519
+ffwrn,520,stove,520
+ailadrodd,521,to repeat,521
+arfer,522,to use,522
+teithio,523,to travel,523
+gweini,524,to serve,524
+curo,525,to strike,525
+gwenu,526,to  smile,526
+mygu,527,to smoke,527
+egluro,528,to explain,528
+tywys,529,to lead,529
+tynnu,530,to pull,530
+golwg,531,sight,531
+brenhines,532,queen,532
+awyr,533,sky,533
+gwefus,534,lip,534
+buwch,535,cow,535
+plat,536,plate,536
+cod,537,purse,537
+crib,538,comb,538
+tafod,539,tongue,539
+gwynt,540,wind,540
+difrifol,541,serious,541
+dieithr,542,strange,542
+perffaith,543,perfect,543
+hynod,544,famous,544
+dwfn,545,deep,545
+hagr,546,ugly,546
+eto,547,nevertheless,547
+call,548,sensible,548
+tenau,549,thin,549
+cyfan,550,entire,550
+awyren,551,airplane,551
+miwsig,552,music,552
+symudiad,553,movement,553
+llwy,554,spoon,554
+athro,555,teacher,555
+dafad,556,sheep,556
+llun,557,painting,557
+traeth,558,beach,558
+gwestai,559,guest,559
+nifer,560,number,560
+wylofain,561,to weep,561
+gweithredu,562,to work,562
+adrodd,563,to recount,563
+dwyn,564,to bring,564
+petruso,565,to doubt,565
+dychwelyd,566,to return,566
+celu,567,to hide,567
+sicrhau,568,to assure,568
+adnabod,569,to recognize,569
+gogwyddo,570,to lean,570
+gwaith,571,occupation,571
+arogl,572,smell,572
+heddwas,573,policeman,573
+llawr,574,floor,574
+ymadrodd,575,expression,575
+gobennydd,576,pillow,576
+tymestl,577,storm,577
+synnwyr,578,sense,578
+goror,579,coast,579
+tywydd,580,weather,580
+gwahanol,581,different,581
+cyfryw,582,such,582
+defnyddiol,583,useful,583
+dewr,584,brave,584
+dynol,585,human,585
+cyhoeddus,586,public,586
+astud,587,attentive,587
+ardderchog,588,excellent,588
+dall,589,blind,589
+anaml,590,rare,590
+elin,591,elbow,591
+syniad,592,sentiment,592
+deigryn,593,tear,593
+halen,594,salt,594
+damwain,595,accident,595
+prifysgol,596,university,596
+clust,597,ear,597
+cefnfor,598,ocean,598
+ffordd,599,road,599
+ongl,600,corner,600
+arwain,601,to conduct,601
+credu,602,to hold,602
+dyfalu,603,to guess,603
+ymrithio,604,to appear,604
+rholio,605,to roll,605
+profi,606,to prove,606
+ymweld,607,to visit,607
+brathu,608,to bite,608
+gwrthod,609,to refuse,609
+darbwyllo,610,to persuade,610
+llong,611,ship,611
+hanes,612,history,612
+cefnder,613,cousin,613
+argoel,614,sign,614
+cloc,615,clock,615
+estron,616,foreigner,616
+croeso,617,welcome,617
+arian,618,silver,618
+coes,619,leg,619
+llwyddiant,620,success,620
+hefyd,621,moreover,621
+noeth,622,pure,622
+cadarn,623,firm,623
+cyfeillgar,624,friendly,624
+uniawn,625,just,625
+anadnabyddus,626,unknown,626
+cul,627,narrow,627
+llonydd,628,quiet,628
+penodol,629,precise,629
+wyth,630,eight,630
+tocyn,631,ticket,631
+lliw,632,color,632
+goruchwyliwr,633,manager,633
+dyfodiad,634,arrival,634
+haf,635,summer,635
+gogledd,636,north,636
+bywyd,637,life,637
+oren,638,orange,638
+crys,639,shirt,639
+lle,640,scene,640
+dethol,641,to choose,641
+ufuddhau,642,to obey,642
+trengi,643,to die,643
+pacio,644,to pack,644
+meddu,645,to occupy,645
+goddef,646,to suffer,646
+ateb,647,to answer,647
+cynnig,648,to propose,648
+cytuno,649,to consent,649
+lladd,650,to kill,650
+ysgrifennydd,651,secretary,651
+heddlu,652,police,652
+blas,653,taste,653
+torth,654,loaf,654
+myfyriwr,655,student,655
+breuddwyd,656,dream,656
+hydref,657,autumn,657
+pendefig,658,prince,658
+cyfraith,659,law,659
+cyflymder,660,speed,660
+pendefigaidd,661,noble,661
+gwastad,662,flat,662
+didwyll,663,honest,663
+dymunol,664,agreeable,664
+gelyniaethus,665,hostile,665
+peryglus,666,dangerous,666
+cyfoethog,667,rich,667
+melyngoch,668,orange,668
+ofnadwy,669,terrible,669
+tawel,670,calm,670
+eiliad,671,second,671
+blodeuyn,672,flower,672
+swyn,673,charm,673
+saig,674,dish,674
+cigydd,675,butcher,675
+wyneb,676,front,676
+selsig,677,sausage,677
+porthiant,678,food,678
+gwaed,679,blood,679
+gwers,680,lesson,680
+trefnu,681,to order,681
+esgusodi,682,to excuse,682
+arwyddo,683,to sign,683
+atodi,684,to add,684
+trin,685,to dress,685
+gorfoleddu,686,to  rejoice,686
+derbyn,687,to accept,687
+cymeradwyo,688,to  recommend,688
+eillio,689,to shave,689
+coginio,690,to cook,690
+iechyd,691,health,691
+gyrrwr,692,driver,692
+cylla,693,stomach,693
+drych,694,mirror,694
+enaid,695,soul,695
+anian,696,nature,696
+masnach,697,business,697
+gwrthrych,698,object,698
+rhan,699,part,699
+croes,700,cross,700
+gwlyb,701,wet,701
+chwerthinllyd,702,ridiculous,702
+gwelw,703,pale,703
+bywiog,704,lively,704
+cysurus,705,comfortable,705
+marw,706,dead,706
+cau,707,hollow,707
+gostyngedig,708,humble,708
+serchog,709,loving,709
+tan,710,under,710
+siwgr,711,sugar,711
+llef,712,cry,712
+argraffiad,713,impression,713
+trefn,714,order,714
+parch,715,respect,715
+dinas,716,city,716
+colofn,717,pillar,717
+hosan,718,sock,718
+aderyn,719,bird,719
+celwydd,720,lie,720
+dyfeisio,721,to imagine,721
+amgylchynu,722,to surround,722
+beiddio,723,to dare,723
+addo,724,to promise,724
+boddhau,725,to please,725
+cofio,726,to  remember,726
+ymadael,727,to depart,727
+cribo,728,to comb,728
+tyngu,729,to swear,729
+paratoi,730,to prepare,730
+cennad,731,permission,731
+arholiad,732,examination,732
+arferiad,733,habit,733
+min,734,lip,734
+cern,735,cheek,735
+cymorth,736,help,736
+blaidd,737,wolf,737
+cwpwrdd,738,cupboard,738
+awdur,739,author,739
+lelog,740,lilac,740
+prin,741,scarcely,741
+porffor,742,purple,742
+diolchgar,743,grateful,743
+gwaradwyddus,744,infamous,744
+dirgel,745,secret,745
+amhenodol,746,vague,746
+sur,747,sour,747
+rhesymegol,748,logical,748
+dihafal,749,unique,749
+cyffredin,750,common,750
+llafur,751,corn,751
+meistr,752,master,752
+culfor,753,sound,753
+cawell,754,basket,754
+sug,755,juice,755
+cerdd,756,poem,756
+delw,757,stamp,757
+pwys,758,pound,758
+ffynnon,759,spring,759
+derwen,760,oak,760
+crogi,761,to hang,761
+dyrchafu,762,to advance,762
+dal,763,to continue,763
+tyfu,764,to grow,764
+lliwio,765,to paint,765
+gorchymyn,766,to command,766
+hebrwng,767,to accompany,767
+gadael,768,to abandon,768
+garddio,769,to garden,769
+achub,770,to save,770
+pentwr,771,mass,771
+gwarth,772,reproach,772
+cyngerdd,773,concert,773
+mynegiant,774,expression,774
+clustog,775,pillow,775
+deuddeg,776,dozen,776
+potes,777,soup,777
+gwenynen,778,bee,778
+arfordir,779,coast,779
+rhwystr,780,bar,780
+enwog,781,famous,781
+ysblennydd,782,splendid,782
+brau,783,fragile,783
+llydan,784,broad,784
+balch,785,proud,785
+synhwyrol,786,sensible,786
+cynnar,787,early,787
+oherwydd,788,because,788
+cyflawn,789,entire,789
+undonog,790,monotonous,790
+creadur,791,animal,791
+miliwn,792,million,792
+merch,793,daughter,793
+cydnabod,794,acquaintance,794
+chwerthiniad,795,laugh,795
+casgliad,796,collection,796
+cymdeithas,797,company,797
+gwddf,798,neck,798
+cil,799,corner,799
+defnydd,800,material,800
+cynhorthwy,801,to help,801
+ehedfan,802,to fly,802
+neidio,803,to jump,803
+gwarafun,804,to forbid,804
+gwario,805,to spend,805
+melltithio,806,to curse,806
+cael,807,to receive,807
+rhagflaenu,808,to prevent,808
+gyrru,809,to drive,809
+torri,810,to break,810
+dyddiad,811,date,811
+anhawster,812,difficulty,812
+brela,813,umbrella,813
+munud,814,sign,814
+taten,815,potato,815
+darn,816,piece,816
+llid,817,anger,817
+gorfoledd,818,joy,818
+hugan,819,rug,819
+clun,820,leg,820
+saith,821,seven,821
+rheolaidd,822,normal,822
+gwyrw,823,masculine,823
+gwan,824,weak,824
+neilltuol,825,particular,825
+gwir,826,real,826
+tywyll,827,dark,827
+llysaidd,828,polite,828
+corfforol,829,physical,829
+godidog,830,excellent,830
+cyflog,831,wage,831
+manylyn,832,detail,832
+gweddi,833,prayer,833
+enghraifft,834,example,834
+ariandy,835,bank,835
+gwesty,836,hotel,836
+gwres,837,heat,837
+banadl,838,broom,838
+neidr,839,snake,839
+pwnc,840,problem,840
+anfon,841,to send,841
+ailgyflawni,842,to repeat,842
+hyderu,843,to rely,843
+preswylio,844,to dwell,844
+ymddangos,845,to seem,845
+anadlu,846,to breathe,846
+sylwi,847,to remark,847
+diolch,848,to thank,848
+rhannu,849,to divide,849
+bwrw,850,to strike,850
+tywod,851,sand,851
+ymdrech,852,effort,852
+cymar,853,partner,853
+gwynt,854,smell,854
+llew,855,lion,855
+golygydd,856,editor,856
+dechreuad,857,beginning,857
+mynedfa,858,entrance,858
+rhyfeddod,859,marvel,859
+ystwc,860,pail,860
+truenus,861,miserable,861
+anghyffredin,862,rare,862
+galluog,863,powerful,863
+pedwar,864,four,864
+gwyllt,865,violent,865
+prydferth,866,beautiful,866
+dwbl,867,double,867
+cyfiawn,868,just,868
+pwyllog,869,prudent,869
+anarferol,870,extraordinary,870
+tywysog,871,prince,871
+mynydd,872,mountain,872
+llogell,873,pocket,873
+garddwr,874,gardener,874
+cadno,875,fox,875
+ymddiddan,876,conversation,876
+ymadrodd,877,phrase,877
+twr,878,crowd,878
+talaith,879,province,879
+bwyd,880,food,880
+pwyso,881,to weigh,881
+perffeithio,882,to perfect,882
+gweithio,883,to work,883
+teimlo,884,to touch,884
+gorchuddio,885,to cover,885
+dyfnhau,886,to deepen,886
+edmygu,887,to admire,887
+cuddio,888,to hide,888
+mynegi,889,to declare,889
+myfyrio,890,to study,890
+byd,891,life,891
+pentref,892,village,892
+sylw,893,attention,893
+clawdd,894,hedge,894
+twmpath,895,hillock,895
+heddwch,896,peace,896
+hynt,897,course,897
+mordaith,898,voyage,898
+damwain,899,luck,899
+ffordd,900,distance,900
+naw,901,nine,901
+drud,902,expensive,902
+blin,903,tedious,903
+deugain,904,forty,904
+call,905,wise,905
+agos,906,immediate,906
+del,907,neat,907
+unwaith,908,once,908
+trigain,909,sixty,909
+gieuol,910,nervous,910
+plisgyn,911,husk,911
+gwlad,912,country,912
+swm,913,sum,913
+talcen,914,forehead,914
+cybydd,915,miser,915
+cyfrinach,916,secret,916
+prydferthwch,917,beauty,917
+llofft,918,bedroom,918
+terfysg,919,uproar,919
+golwg,920,respect,920
+barnu,921,to judge,921
+ceisio,922,to request,922
+gwahaniaethu,923,to  differ,923
+treiglo,924,to roll,924
+goleuo,925,to light,925
+gofwyo,926,to visit,926
+amddiffyn,927,to defend,927
+cnoi,928,to bite,928
+dymuno,929,to wish,929
+toddi,930,to melt,930
+bai,931,vice,931
+cydwybod,932,conscience,932
+porth,933,gate,933
+lleuad,934,moon,934
+modur,935,motor,935
+cae,936,field,936
+arfer,937,habit,937
+grudd,938,cheek,938
+morthwyl,939,hammer,939
+derbyniad,940,admission,940
+distaw,941,silent,941
+melys,942,sweet,942
+deg,943,ten,943
+trydydd,944,third,944
+dychrynllyd,945,frightful,945
+prysur,946,busy,946
+ardderchog,947,noble,947
+hanfodol,948,essential,948
+anaml,949,rarely,949
+wedi,950,after,950
+lle,951,space,951
+lol,952,nonsense,952
+cig,953,flesh,953
+poplysen,954,poplar,954
+athro,955,master,955
+gwawr,956,dawn,956
+canrif,957,century,957
+lled,958,width,958
+marmor,959,marble,959
+tristwch,960,sadness,960
+ennill,961,to earn,961
+deisyf,962,to beg,962
+llefain,963,to  exclaim,963
+benthyca,964,to lend,964
+siarad,965,to talk,965
+archebu,966,to order,966
+synnu,967,to  surprise,967
+hela,968,to hunt,968
+llofnodi,969,to sign,969
+dawnsio,970,to dance,970
+damcaniaeth,971,theory,971
+inc,972,ink,972
+uchder,973,height,973
+swp,974,mass,974
+llecheden,975,thunderbolt,975
+cist,976,chest,976
+gwirionedd,977,reality,977
+dihareb,978,proverb,978
+godre,979,edge,979
+aberth,980,sacrifice,980
+llwfr,981,cowardly,981
+rhyfeddol,982,wonderful,982
+cyfrinachol,983,secret,983
+deallus,984,intelligent,984
+amwys,985,vague,985
+aeddfed,986,ripe,986
+dau,987,two,987
+union,988,exact,988
+eithafol,989,extreme,989
+cymdeithasol,990,social,990
+trosol,991,bar,991
+llafar,992,speech,992
+anifail,993,animal,993
+cynnig,994,offer,994
+glaswellt,995,grass,995
+eira,996,snow,996
+cyfarfod,997,meeting,997
+carn,998,hoof,998
+ffoadur,999,fugitive,999
+tro,1000,turn,1000
+chwanegu,1001,to add,1001
+diflasu,1002,to bore,1002
+hyfforddi,1003,to train,1003
+pwytho,1004,to sew,1004
+llawenhau,1005,to  rejoice,1005
+argymell,1006,to  recommend,1006
+cadw,1007,to keep,1007
+curo,1008,to beat,1008
+anwybyddu,1009,to ignore,1009
+digoni,1010,to cook,1010
+drych,1011,object,1011
+ystum,1012,attitude,1012
+rhieni,1013,parents,1013
+cannwyll,1014,candle,1014
+ymadawiad,1015,departure,1015
+nwy,1016,gas,1016
+maneg,1017,glove,1017
+dicter,1018,anger,1018
+llawenydd,1019,joy,1019
+dychweliad,1020,return,1020
+cyntaf,1021,first,1021
+eglur,1022,evident,1022
+cynddeiriog,1023,furious,1023
+mwyaf,1024,most,1024
+ysgeler,1025,sinister,1025
+esgud,1026,swift,1026
+cyfartal,1027,equal,1027
+gwlyb,1028,liquid,1028
+penodol,1029,particular,1029
+eiddigus,1030,jealous,1030
+cyfnos,1031,dusk,1031
+ewyllys,1032,wish,1032
+meddwl,1033,thought,1033
+tyst,1034,witness,1034
+cwpl,1035,couple,1035
+eglurhad,1036,explanation,1036
+glan,1037,bank,1037
+lludded,1038,fatigue,1038
+cynllun,1039,plan,1039
+cawg,1040,basin,1040
+dychmygu,1041,to imagine,1041
+marchogaeth,1042,to ride,1042
+herio,1043,to dare,1043
+diddori,1044,to  interest,1044
+dwyn,1045,to steal,1045
+clwyfo,1046,to wound,1046
+boddio,1047,to please,1047
+ciniawa,1048,to dine,1048
+tarddu,1049,to shoot,1049
+meddyginiaethu,1050,to heal,1050
+barclod,1051,apron,1051
+ysbryd,1052,ghost,1052
+niwed,1053,damage,1053
+maban,1054,baby,1054
+coedwig,1055,wood,1055
+taliad,1056,payment,1056
+ysgyfarnog,1057,hare,1057
+tynged,1058,fate,1058
+iaith,1059,language,1059
+syndod,1060,marvel,1060
+moesgar,1061,polite,1061
+rhagorol,1062,excellent,1062
+analluog,1063,unable,1063
+anfynych,1064,rare,1064
+rhesymol,1065,reasonable,1065
+grymus,1066,powerful,1066
+deunaw,1067,eighteen,1067
+er,1068,although,1068
+diwerth,1069,useless,1069
+angerddol,1070,violent,1070
+cwpan,1071,vase,1071
+pwys,1072,weight,1072
+croen,1073,peel,1073
+newyn,1074,hunger,1074
+sicrwydd,1075,assurance,1075
+llwch,1076,dust,1076
+pib,1077,pipe,1077
+carw,1078,deer,1078
+torf,1079,crowd,1079
+gof,1080,smith,1080
+ymofyn,1081,to inquire,1081
+cyflawni,1082,to  complete,1082
+arwain,1083,to lead,1083
+atafaelu,1084,to seize,1084
+diddanu,1085,to amuse,1085
+prifio,1086,to grow,1086
+soddi,1087,to sink,1087
+cyfeilio,1088,to accompany,1088
+llwytho,1089,to load,1089
+bod,1090,to be,1090
+nith,1091,niece,1091
+ymborth,1092,food,1092
+siswrn,1093,scissors,1093
+crug,1094,heap,1094
+cengl,1095,strap,1095
+perth,1096,hedge,1096
+cyfreithiwr,1097,lawyer,1097
+bryn,1098,hill,1098
+gyrfa,1099,course,1099
+seren,1100,star,1100
+drwg,1101,wicked,1101
+dirgel,1102,mysterious,1102
+gwerthfawr,1103,precious,1103
+absennol,1104,absent,1104
+deuddeg,1105,twelve,1105
+gwrthun,1106,absurd,1106
+rhai,1107,some,1107
+hardd,1108,nice,1108
+hynod,1109,extraordinary,1109
+cyffredin,1110,general,1110
+ymddiried,1111,confidence,1111
+cyfarwyddyd,1112,direction,1112
+ieuenctid,1113,youth,1113
+paun,1114,peacock,1114
+gwidman,1115,widower,1115
+cyngor,1116,advice,1116
+rhan,1117,portion,1117
+sawdl,1118,heel,1118
+ynfydrwydd,1119,madness,1119
+glendid,1120,beauty,1120
+symud,1121,to move,1121
+parhau,1122,to continue,1122
+pereiddio,1123,to sweeten,1123
+darostwng,1124,to humble,1124
+chwyddo,1125,to swell,1125
+datblygu,1126,to develop,1126
+cosbi,1127,to punish,1127
+dodrefnu,1128,to furnish,1128
+plygu,1129,to bend,1129
+addef,1130,to admit,1130
+iawnder,1131,right,1131
+llusern,1132,lantern,1132
+ymddygiad,1133,conduct,1133
+priod,1134,spouse,1134
+drygioni,1135,vice,1135
+dwrn,1136,fist,1136
+twb,1137,tub,1137
+cynllwyn,1138,conspiracy,1138
+cyfamod,1139,treaty,1139
+bwyty,1140,restaurant,1140
+prif,1141,principal,1141
+gwanahol,1142,diverse,1142
+rhad,1143,cheap,1143
+tragwyddol,1144,eternal,1144
+erbyn,1145,against,1145
+destlus,1146,neat,1146
+difater,1147,indifferent,1147
+cyflawn,1148,complete,1148
+uchel,1149,loud,1149
+llawer,1150,much,1150
+sarff,1151,serpent,1151
+rheithiwr,1152,juror,1152
+hoel,1153,nail,1153
+edmygedd,1154,admiration,1154
+gwynt,1155,breath,1155
+gofid,1156,regret,1156
+gwrthodiad,1157,refusal,1157
+ing,1158,anguish,1158
+llw,1159,oath,1159
+cystudd,1160,affliction,1160
+rhwystro,1161,to prevent,1161
+ymolchi,1162,to bathe,1162
+trefnu,1163,to arrange,1163
+annog,1164,to provoke,1164
+danfon,1165,to send,1165
+twyllo,1166,to deceive,1166
+euogfarnu,1167,to convict,1167
+ffoi,1168,to flee,1168
+ymladd,1169,to fight,1169
+clymu,1170,to tie,1170
+ynni,1171,vigor,1171
+uffern,1172,hell,1172
+ysglyfaeth,1173,filth,1173
+llwfrddyn,1174,coward,1174
+gwyliwr,1175,watchman,1175
+trysor,1176,treasure,1176
+porthfa,1177,wharf,1177
+budd,1178,advancement,1178
+cawnen,1179,reed,1179
+twr,1180,group,1180
+gwirfoddol,1181,spontaneous,1181
+ofnus,1182,nervous,1182
+caredig,1183,obliging,1183
+dirfawr,1184,vast,1184
+tywyll,1185,obscure,1185
+anfeidrol,1186,infinite,1186
+syth,1187,stiff,1187
+creulon,1188,cruel,1188
+chwerw,1189,bitter,1189
+gwan,1190,feeble,1190
+diafol,1191,devil,1191
+gorchwyl,1192,task,1192
+sinema,1193,cinema,1193
+cyflawnder,1194,justice,1194
+min,1195,edge,1195
+tafodiaith,1196,speech,1196
+celfyddyd,1197,skill,1197
+cydsyniad,1198,compliance,1198
+potel,1199,bottle,1199
+gwystl,1200,hostage,1200
+trin,1201,to discuss,1201
+chwythu,1202,to breathe,1202
+gorfodi,1203,to oblige,1203
+cymeradwyo,1204,to approve,1204
+gweini,1205,to tend,1205
+dymchwelyd,1206,to  demolish,1206
+arlwyo,1207,to prepare,1207
+gwahanu,1208,to divide,1208
+dyfeisio,1209,to guess,1209
+goroesi,1210,to survive,1210
+petruster,1211,hesitation,1211
+terfyn,1212,limit,1212
+rhagwelediad,1213,foresight,1213
+aeronen,1214,fruit,1214
+cyfarpar,1215,equipment,1215
+ysgaffald,1216,scaffold,1216
+dyfais,1217,artifice,1217
+mynwent,1218,churchyard,1218
+gwlad,1219,land,1219
+saig,1220,meal,1220
+cynnil,1221,delicate,1221
+eithr,1222,except,1222
+garw,1223,rough,1223
+gorffenedig,1224,finished,1224
+manwl,1225,exact,1225
+gwleidyddol,1226,political,1226
+gwladol,1227,civil,1227
+nesaf,1228,next,1228
+atebol,1229,responsible,1229
+amlwg,1230,evident,1230
+carcharor,1231,prisoner,1231
+rhodres,1232,ostentation,1232
+llen,1233,sheet,1233
+diogi,1234,laziness,1234
+dymuniad,1235,wish,1235
+teulu,1236,household,1236
+bol,1237,belly,1237
+gwisg,1238,robe,1238
+mainc,1239,bank,1239
+dyfodfa,1240,approach,1240
+glawio,1241,to rain,1241
+gwrando,1242,to  listen,1242
+ffaelu,1243,to fail,1243
+datgan,1244,to announce,1244
+gweithredu,1245,to act,1245
+digwydd,1246,to happen,1246
+efrydu,1247,to study,1247
+anrhydeddu,1248,to honor,1248
+dal,1249,to catch,1249
+halltu,1250,to salt,1250
+fioled,1251,violet,1251
+cangen,1252,branch,1252
+ymwybyddiaeth,1253,consciousness,1253
+dim,1254,nothing,1254
+barn,1255,judgment,1255
+cyngwysti,1256,bet,1256
+ardalydd,1257,marquis,1257
+oriel,1258,balcony,1258
+baban,1259,baby,1259
+ogof,1260,cave,1260
+diweddar,1261,modern,1261
+call,1262,discreet,1262
+drwgdybus,1263,suspicious,1263
+del,1264,pretty,1264
+tryloyw,1265,transparent,1265
+diniwed,1266,innocent,1266
+cyflym,1267,swift,1267
+anweledig,1268,invisible,1268
+teilwng,1269,worthy,1269
+cryg,1270,raucous,1270
+trumbren,1271,keel,1271
+bri,1272,prestige,1272
+gwerth,1273,price,1273
+ceinach,1274,hare,1274
+drewdod,1275,stench,1275
+serch,1276,affection,1276
+byrfodd,1277,abbreviation,1277
+merthyr,1278,martyr,1278
+ymladdfa,1279,fight,1279
+siart,1280,chart,1280
+gwahodd,1281,to invite,1281
+hebrwng,1282,to conduct,1282
+gadael,1283,to let,1283
+arswydo,1284,to fear,1284
+rhewi,1285,to freeze,1285
+gwatwar,1286,to mock,1286
+tywyllu,1287,to darken,1287
+ymdoddi,1288,to melt,1288
+aberthu,1289,to  sacrifice,1289
+sefyll,1290,to stand,1290
+pregeth,1291,sermon,1291
+anghytgord,1292,discord,1292
+glwth,1293,glutton,1293
+gorchymyn,1294,decree,1294
+nen,1295,ceiling,1295
+cynhaef,1296,harvest,1296
+ystwffwl,1297,staple,1297
+darllenydd,1298,reader,1298
+cydfod,1299,accord,1299
+ehangder,1300,extent,1300
+ysblennydd,1301,superb,1301
+pymtheg,1302,fifteen,1302
+ardderchog,1303,splendid,1303
+metelaidd,1304,metallic,1304
+nerthol,1305,powerful,1305
+ychydig,1306,few,1306
+poenus,1307,painful,1307
+rhyfeddol,1308,marvelous,1308
+ymosodol,1309,aggressive,1309
+beichiog,1310,pregnant,1310
+colomen,1311,pigeon,1311
+merthyrdod,1312,martyrdom,1312
+drwgdybiaeth,1313,suspicion,1313
+celwydd,1314,falsehood,1314
+drych,1315,pattern,1315
+castell,1316,castle,1316
+dillad,1317,clothing,1317
+penderfyniad,1318,resolution,1318
+seguryd,1319,indolence,1319
+brwydr,1320,combat,1320
+cael,1321,to get,1321
+dychrynu,1322,to  frighten,1322
+ysgar,1323,to separate,1323
+cardota,1324,to beg,1324
+mynnu,1325,to  insist,1325
+cyfeirio,1326,to address,1326
+maddau,1327,to pardon,1327
+sgwrsio,1328,to talk,1328
+caru,1329,to like,1329
+magu,1330,to nurse,1330
+barf,1331,beard,1331
+ysgolhaig,1332,pupil,1332
+pab,1333,pope,1333
+cadwyn,1334,chain,1334
+tafarn,1335,inn,1335
+diogelwch,1336,security,1336
+gwatwar,1337,derision,1337
+cyntun,1338,nap,1338
+clegr,1339,crag,1339
+chwedl,1340,fable,1340
+hael,1341,generous,1341
+ynfyd,1342,foolish,1342
+diamynedd,1343,impatient,1343
+annioddefol,1344,unbearable,1344
+cariadus,1345,loving,1345
+trwsgl,1346,clumsy,1346
+canolig,1347,mediocre,1347
+pumed,1348,fifth,1348
+balch,1349,haughty,1349
+eilradd,1350,secondary,1350
+gwaradwydd,1351,shame,1351
+crwydryn,1352,vagabond,1352
+antur,1353,attempt,1353
+trachwant,1354,avarice,1354
+iawn,1355,right,1355
+afu,1356,liver,1356
+areithiwr,1357,orator,1357
+syndod,1358,surprise,1358
+gwarthol,1359,stirrup,1359
+pastwn,1360,baton,1360
+difetha,1361,to spoil,1361
+tyllu,1362,to bore,1362
+hysbysebu,1363,to  advertise,1363
+gwrthwynebu,1364,to  resist,1364
+crasu,1365,to bake,1365
+sylwi,1366,to notice,1366
+niweidio,1367,to damage,1367
+bwrw,1368,to spend,1368
+cyflwyno,1369,to introduce,1369
+pwyso,1370,to rely,1370
+dodrefn,1371,furniture,1371
+llin,1372,line,1372
+bwthyn,1373,cottage,1373
+rheolaeth,1374,control,1374
+tosturi,1375,pity,1375
+cawell,1376,cage,1376
+unigedd,1377,solitude,1377
+amddiffynfa,1378,fortress,1378
+pwys,1379,burden,1379
+dramodydd,1380,playwright,1380
+graslon,1381,graceful,1381
+ofnadwy,1382,dreadful,1382
+ysgeler,1383,wicked,1383
+ffydlon,1384,faithful,1384
+iach,1385,healthy,1385
+gwastad,1386,even,1386
+ffel,1387,sharp,1387
+carpiog,1388,shabby,1388
+rhywun,1389,someone,1389
+anferth,1390,monstrous,1390
+rhagrithiwr,1391,hypocrite,1391
+llygoden,1392,mouse,1392
+addurn,1393,ornament,1393
+grym,1394,vigor,1394
+llysgennad,1395,ambassador,1395
+pridwerth,1396,ransom,1396
+ongl,1397,angle,1397
+eisiau,1398,lack,1398
+brynti,1399,filth,1399
+gwersyll,1400,camp,1400
+disgrifio,1401,to describe,1401
+arogli,1402,to  smell,1402
+archolli,1403,to wound,1403
+mewnfudo,1404,to  immigrate,1404
+sefydlu,1405,to  establish,1405
+anghymeradwyo,1406,to disapprove,1406
+ymgomio,1407,to chat,1407
+gwella,1408,to mend,1408
+difyrru,1409,to amuse,1409
+ardrethu,1410,to rent,1410
+chwant,1411,lust,1411
+medr,1412,ability,1412
+trothwy,1413,threshold,1413
+lleng,1414,legion,1414
+lleian,1415,nun,1415
+blaguryn,1416,sprout,1416
+craster,1417,harshness,1417
+ynad,1418,justice,1418
+hyfforddiant,1419,training,1419
+testun,1420,text,1420
+trwy,1421,through,1421
+rhagorol,1422,admirable,1422
+anfoesgar,1423,rude,1423
+gweladwy,1424,visible,1424
+cryn,1425,considerable,1425
+ffyrnig,1426,ferocious,1426
+meddyliol,1427,mental,1427
+milwrol,1428,military,1428
+moesol,1429,moral,1429
+tyner,1430,delicate,1430
+casgliad,1431,abscess,1431
+bach,1432,hook,1432
+ffin,1433,border,1433
+bedd,1434,tomb,1434
+ceirch,1435,oats,1435
+haelioni,1436,generosity,1436
+digonedd,1437,abundance,1437
+gorynys,1438,peninsula,1438
+dyfarniad,1439,decision,1439
+ffrwyth,1440,fruit,1440
+gwrido,1441,to blush,1441
+ffraeo,1442,to quarrel,1442
+bragu,1443,to brew,1443
+cynnig,1444,to move,1444
+deffro,1445,to awake,1445
+melysu,1446,to sweeten,1446
+rhuo,1447,to roar,1447
+dyfynnu,1448,to quote,1448
+pysgota,1449,to fish,1449
+grwgnach,1450,to grumble,1450
+etifedd,1451,heir,1451
+cyfarwyddyd,1452,advice,1452
+dichell,1453,trickery,1453
+creawdwr,1454,creator,1454
+llun,1455,portrait,1455
+addysg,1456,instruction,1456
+ystryw,1457,art,1457
+chwibon,1458,stork,1458
+cyngor,1459,counsel,1459
+creadur,1460,creature,1460
+angheuol,1461,mortal,1461
+tadol,1462,paternal,1462
+crefyddol,1463,religious,1463
+gwydn,1464,tenacious,1464
+pedwerydd,1465,fourth,1465
+uwch,1466,above,1466
+cyffredin,1467,vulgar,1467
+parhaol,1468,continuous,1468
+crai,1469,raw,1469
+moesgar,1470,civil,1470
+palf,1471,palm,1471
+difyrrwch,1472,fun,1472
+picell,1473,javelin,1473
+cynfas,1474,sheet,1474
+duwies,1475,goddess,1475
+croesawferch,1476,hostess,1476
+tlws,1477,jewel,1477
+tylwyth,1478,household,1478
+tystiolaeth,1479,evidence,1479
+llong,1480,bark,1480
+oerni,1481,to chill,1481
+anelu,1482,to bend,1482
+esgeuluso,1483,to omit,1483
+gofyn,1484,to require,1484
+golchi,1485,to bathe,1485
+hyderu,1486,to trust,1486
+fflangellu,1487,to lash,1487
+esgyn,1488,to ascend,1488
+hocedu,1489,to deceive,1489
+dadlau,1490,to dispute,1490
+braich,1491,branch,1491
+cwyr,1492,wax,1492
+pelydryn,1493,sunbeam,1493
+tafodiaith,1494,language,1494
+gwasgod,1495,waistcoat,1495
+cyndad,1496,ancestor,1496
+brawd,1497,judgment,1497
+trawswch,1498,moustache,1498
+cystadleuaeth,1499,contest,1499
+cred,1500,belief,1500
+gogoneddus,1501,glorious,1501
+arferol,1502,habitual,1502
+dyfodol,1503,future,1503
+amheus,1504,suspicious,1504
+diddiwedd,1505,endless,1505
+anenwog,1506,ignoble,1506
+dychmygol,1507,imaginary,1507
+ofnus,1508,timid,1508
+llawen,1509,joyful,1509
+amyneddgar,1510,patient,1510
+cwmwl,1511,cloud,1511
+breichled,1512,bracelet,1512
+helygen,1513,willow,1513
+cam,1514,pace,1514
+achlysur,1515,occasion,1515
+cynllun,1516,pattern,1516
+twyll,1517,deception,1517
+carw,1518,stag,1518
+cariad,1519,affection,1519
+deulygadur,1520,binoculars,1520
+hudo,1521,to allure,1521
+cwffio,1522,to fight,1522
+ystyried,1523,to consider,1523
+cyrraedd,1524,to reach,1524
+derbyn,1525,to admit,1525
+profi,1526,to test,1526
+rhwymo,1527,to oblige,1527
+gwisgo,1528,to wear,1528
+camu,1529,to step,1529
+seiclo,1530,to cycle,1530
+anhrefn,1531,disorder,1531
+moeth,1532,luxury,1532
+agoriad,1533,key,1533
+prawf,1534,trial,1534
+dyffryn,1535,valley,1535
+llestr,1536,vessel,1536
+arfaeth,1537,decree,1537
+pedol,1538,horseshoe,1538
+gwyliwr,1539,sentinel,1539
+amddiffyn,1540,protection,1540
+meddw,1541,drunk,1541
+aruchel,1542,sublime,1542
+barus,1543,greedy,1543
+union,1544,direct,1544
+dwyfol,1545,divine,1545
+dig,1546,angry,1546
+cyfoethog,1547,powerful,1547
+eang,1548,spacious,1548
+creulon,1549,brutal,1549
+eithriadol,1550,exceptional,1550
+byddin,1551,army,1551
+cyswllt,1552,joint,1552
+balchder,1553,dignity,1553
+trestl,1554,stretcher,1554
+pont,1555,bridge,1555
+anfodlonrwydd,1556,displeasure,1556
+braw,1557,alarm,1557
+gwrogaeth,1558,homage,1558
+perffeithrwydd,1559,perfection,1559
+lletygarwch,1560,hospitality,1560
+porthi,1561,to feed,1561
+rheoleiddio,1562,to  regulate,1562
+cyhoeddi,1563,to announce,1563
+preswylio,1564,to inhabit,1564
+astudio,1565,to study,1565
+lledrithio,1566,to haunt,1566
+gafael,1567,to grip,1567
+taro,1568,to knock,1568
+rhuthro,1569,to rush,1569
+hysbysu,1570,to inform,1570
+cyhuddiad,1571,accusation,1571
+twmpath,1572,mound,1572
+meistres,1573,mistress,1573
+caer,1574,castle,1574
+dychryn,1575,panic,1575
+rhwystr,1576,hindrance,1576
+ymerawdwr,1577,emperor,1577
+gorymdaith,1578,procession,1578
+baich,1579,burden,1579
+hyfrydwch,1580,delight,1580
+gormesol,1581,aggressive,1581
+israddol,1582,inferior,1582
+peirianyddol,1583,mechanical,1583
+gwylaidd,1584,modest,1584
+rhydd,1585,loose,1585
+bydol,1586,worldly,1586
+cyntefig,1587,primitive,1587
+rhywle,1588,anywhere,1588
+canolog,1589,central,1589
+anghyffredin,1590,abnormal,1590
+gwastatir,1591,prairie,1591
+gellygen,1592,pear,1592
+meistrolaeth,1593,mastery,1593
+gweithred,1594,deed,1594
+mynwent,1595,cemetery,1595
+gwesty,1596,inn,1596
+petrisen,1597,partridge,1597
+chwannen,1598,flea,1598
+caws,1599,cheese,1599
+tlodi,1600,poverty,1600
+peryglu,1601,to risk,1601
+bod,1602,to exist,1602
+ofni,1603,to fear,1603
+parhau,1604,to last,1604
+bygwth,1605,to  threaten,1605
+gwawdio,1606,to mock,1606
+arlwyo,1607,to cook,1607
+mynegi,1608,to express,1608
+plannu,1609,to plant,1609
+sarhau,1610,to insult,1610
+hawl,1611,title,1611
+diferyn,1612,drop,1612
+cywilydd,1613,shame,1613
+diflastod,1614,disgust,1614
+cynnig,1615,attempt,1615
+gweniaith,1616,flattery,1616
+drych,1617,spectacle,1617
+haerllugrwydd,1618,insolence,1618
+elorwely,1619,litter,1619
+gefail,1620,smithy,1620
+annymunol,1621,disagreeable,1621
+eglur,1622,apparent,1622
+gwastad,1623,constant,1623
+erchyll,1624,horrible,1624
+diniwed,1625,naive,1625
+diogi,1626,lazy,1626
+pellach,1627,further,1627
+llym,1628,sharp,1628
+tlws,1629,pretty,1629
+anonest,1630,dishonest,1630
+dioddefaint,1631,suffering,1631
+gwellhad,1632,cure,1632
+ansawdd,1633,quality,1633
+cwsmer,1634,patron,1634
+meudwy,1635,hermit,1635
+ysgrythur,1636,scripture,1636
+syrcas,1637,circus,1637
+rhyfelwr,1638,warrior,1638
+rheg,1639,curse,1639
+cerbyd,1640,chariot,1640
+codi,1641,to heave,1641
+cnoi,1642,to worry,1642
+neilltuo,1643,to separate,1643
+erfyn,1644,to beg,1644
+papuro,1645,to paper,1645
+annerch,1646,to address,1646
+disgyn,1647,to descend,1647
+gwasgu,1648,to press,1648
+lledchwerthin,1649,to giggle,1649
+claddu,1650,to bury,1650
+anrheg,1651,present,1651
+ailadroddiad,1652,repetition,1652
+cylch,1653,detour,1653
+gyrfa,1654,race,1654
+ifori,1655,ivory,1655
+diffyg,1656,lack,1656
+trwyn,1657,cape,1657
+llynges,1658,navy,1658
+diolch,1659,thanks,1659
+diwydrwydd,1660,diligence,1660
+angenfilaidd,1661,monstrous,1661
+dof,1662,docile,1662
+brenhinol,1663,royal,1663
+allanol,1664,exterior,1664
+unigol,1665,singular,1665
+gwastraffus,1666,extravagant,1666
+annisgwyliadwy,1667,unexpected,1667
+delfrydol,1668,ideal,1668
+anhepgorol,1669,indispensable,1669
+marwol,1670,mortal,1670
+adduned,1671,vow,1671
+crefydd,1672,religion,1672
+magl,1673,snare,1673
+utgorn,1674,trumpet,1674
+gwrthwynebiad,1675,opposition,1675
+morwr,1676,sailor,1676
+bloedd,1677,shout,1677
+coflaid,1678,bundle,1678
+cystudd,1679,illness,1679
+goror,1680,border,1680
+gofidio,1681,to regret,1681
+gosod,1682,to place,1682
+ysbwylio,1683,to spoil,1683
+dynwared,1684,to  imitate,1684
+chwythu,1685,to blow,1685
+gwrthsefyll,1686,to  resist,1686
+gwrthod,1687,to deny,1687
+pobi,1688,to bake,1688
+disgwyl,1689,to look,1689
+cyflenwi,1690,to supply,1690
+pellter,1691,distance,1691
+gwiber,1692,viper,1692
+offeryn,1693,instrument,1693
+llech,1694,slate,1694
+abwydyn,1695,worm,1695
+trychineb,1696,tragedy,1696
+rhwyf,1697,oar,1697
+gwerth,1698,worth,1698
+penderfyniad,1699,decision,1699
+huriwr,1700,mercenary,1700
+blinedig,1701,tired,1701
+cyfarwydd,1702,intimate,1702
+angerddol,1703,intense,1703
+gerbron,1704,before,1704
+amrwd,1705,raw,1705
+gwych,1706,magnificent,1706
+cyfreithlon,1707,legitimate,1707
+lleol,1708,local,1708
+cynnes,1709,warm,1709
+moethus,1710,luxurious,1710
+rheng,1711,rank,1711
+cyff,1712,log,1712
+meddiant,1713,possession,1713
+cydymgeisydd,1714,rival,1714
+gwrthwynebydd,1715,opponent,1715
+ystyr,1716,meaning,1716
+celfyddyd,1717,art,1717
+bathdy,1718,mint,1718
+arysgrif,1719,inscription,1719
+tafell,1720,slice,1720
+treulio,1721,to spend,1721
+tybio,1722,to suppose,1722
+canmol,1723,to praise,1723
+erchi,1724,to pray,1724
+datgan,1725,to declare,1725
+cynanu,1726,to pronounce,1726
+cyfarfod,1727,to meet,1727
+nodi,1728,to mark,1728
+dysgu,1729,to teach,1729
+cynnull,1730,to  assemble,1730
+dirmyg,1731,disdain,1731
+terfysg,1732,uprising,1732
+haint,1733,plague,1733
+gwaradwydd,1734,reproach,1734
+cor,1735,spider,1735
+ymchwil,1736,quest,1736
+tegell,1737,kettle,1737
+athronydd,1738,philosopher,1738
+plentyndod,1739,infancy,1739
+llys,1740,palace,1740
+diffuant,1741,sincere,1741
+cenedlaethol,1742,national,1742
+gwarthus,1743,infamous,1743
+cyfrinachol,1744,private,1744
+llon,1745,joyful,1745
+gormodol,1746,excessive,1746
+digonol,1747,adequate,1747
+difrifol,1748,solemn,1748
+brwnt,1749,sordid,1749
+braidd,1750,rather,1750
+tyb,1751,opinion,1751
+trachwant,1752,greed,1752
+melin,1753,mill,1753
+gelyn,1754,enemy,1754
+trugaredd,1755,mercy,1755
+meddyginiaeth,1756,medicine,1756
+eryr,1757,eagle,1757
+cern,1758,jaw,1758
+cyfeiliornad,1759,error,1759
+llythyr,1760,epistle,1760
+ffitio,1761,to fit,1761
+benthyca,1762,to borrow,1762
+darllaw,1763,to brew,1763
+diferu,1764,to drip,1764
+sythu,1765,to  stiffen,1765
+clodfori,1766,to  celebrate,1766
+ymrwygo,1767,to burst,1767
+sugno,1768,to suck,1768
+dilyn,1769,to succeed,1769
+diflannu,1770,to fade,1770
+gofal,1771,charge,1771
+argoel,1772,portent,1772
+cynhadledd,1773,conference,1773
+undod,1774,unit,1774
+cyfweliad,1775,interview,1775
+cawr,1776,giant,1776
+rhad,1777,grace,1777
+mynach,1778,monk,1778
+medr,1779,skill,1779
+lluman,1780,banner,1780
+technegol,1781,technical,1781
+syth,1782,vertical,1782
+rhagorol,1783,splendid,1783
+buddugol,1784,victorious,1784
+moel,1785,bald,1785
+drwg,1786,naughty,1786
+danteithiol,1787,delicious,1787
+angheuol,1788,fatal,1788
+pawb,1789,everyone,1789
+amherffaith,1790,imperfect,1790
+madfall,1791,lizard,1791
+gwaddod,1792,dregs,1792
+urddas,1793,dignity,1793
+llyn,1794,pond,1794
+ynad,1795,magistrate,1795
+hyfforddiant,1796,instruction,1796
+ysgrif,1797,writing,1797
+aeronen,1798,berry,1798
+dicter,1799,displeasure,1799
+trysorfa,1800,treasury,1800
+ystumio,1801,to bend,1801
+llifo,1802,to flow,1802
+dymuno,1803,to desire,1803
+ymdrochi,1804,to bathe,1804
+coelio,1805,to trust,1805
+maddau,1806,to forgive,1806
+nofio,1807,to swim,1807
+sgwrsio,1808,to chat,1808
+cael,1809,to obtain,1809
+ceibio,1810,to pick,1810
+llwyth,1811,burden,1811
+ffin,1812,limit,1812
+gwenith,1813,wheat,1813
+llygredigaeth,1814,corruption,1814
+pabell,1815,pavilion,1815
+cyfamod,1816,pact,1816
+drygioni,1817,wickedness,1817
+ynys,1818,island,1818
+colomen,1819,dove,1819
+esgus,1820,excuse,1820
+anfarwol,1821,immortal,1821
+parhaol,1822,perpetual,1822
+serth,1823,obscene,1823
+cyffredin,1824,banal,1824
+cas,1825,hateful,1825
+grymus,1826,vigorous,1826
+afrosgo,1827,unwieldy,1827
+mynych,1828,frequent,1828
+amlwg,1829,apparent,1829
+amheus,1830,doubtful,1830
+rhybudd,1831,warning,1831
+mamaeth,1832,nurse,1832
+canlyniad,1833,outcome,1833
+amaethyddiaeth,1834,agriculture,1834
+cyfarwyddyd,1835,guidance,1835
+dolur,1836,sore,1836
+eiddio,1837,property,1837
+adain,1838,wing,1838
+cwpan,1839,cup,1839
+llymder,1840,poverty,1840
+dringo,1841,to ascend,1841
+crafu,1842,to peel,1842
+goddef,1843,to allow,1843
+troi,1844,to upset,1844
+cynnig,1845,to apply,1845
+anrhegu,1846,to present,1846
+cyffelybu,1847,to compare,1847
+gwobrwyo,1848,to reward,1848
+crasu,1849,to roast,1849
+terfysgu,1850,to rage,1850
+ystryw,1851,trick,1851
+ymennydd,1852,brain,1852
+priffordd,1853,highway,1853
+distryw,1854,destruction,1854
+absenoldeb,1855,absence,1855
+dychan,1856,satire,1856
+teithiwr,1857,passenger,1857
+ffon,1858,staff,1858
+cigfran,1859,raven,1859
+dioddef,1860,suffering,1860
+synfyfyriol,1861,pensive,1861
+cyson,1862,constant,1862
+amhendant,1863,indecisive,1863
+parod,1864,prompt,1864
+gwreiddiol,1865,original,1865
+ofnus,1866,fearful,1866
+iawn,1867,indeed,1867
+diweddar,1868,recent,1868
+oeri,1869,cool,1869
+tyner,1870,mild,1870
+croeslun,1871,crucifix,1871
+tarw,1872,bull,1872
+noddwr,1873,patron,1873
+cysgod,1874,shelter,1874
+eos,1875,nightingale,1875
+dadl,1876,debate,1876
+arlunydd,1877,painter,1877
+sianel,1878,channel,1878
+cyngor,1879,council,1879
+baw,1880,dirt,1880
+niweidio,1881,to hurt,1881
+cofweini,1882,to prompt,1882
+sychu,1883,to dry,1883
+glanhau,1884,to clean,1884
+pesychu,1885,to cough,1885
+sefydlu,1886,to  settle,1886
+cyffesu,1887,to confess,1887
+cyfaneddu,1888,to inhabit,1888
+cau,1889,to shut,1889
+cyfeirio,1890,to direct,1890
+clun,1891,thigh,1891
+pig,1892,peak,1892
+cymdogaeth,1893,neighborhood,1893
+uchelgais,1894,ambition,1894
+llysieuyn,1895,herb,1895
+cynghanedd,1896,harmony,1896
+anhrefn,1897,chaos,1897
+bwystfil,1898,beast,1898
+arwres,1899,heroine,1899
+pechod,1900,sin,1900
+bywiog,1901,active,1901
+deallgar,1902,intellectual,1902
+araf,1903,slow,1903
+serchog,1904,affectionate,1904
+medrus,1905,clever,1905
+rheolaidd,1906,regular,1906
+cant,1907,hundred,1907
+graslon,1908,gracious,1908
+dirym,1909,powerless,1909
+dinesig,1910,municipal,1910
+bedd,1911,grave,1911
+lladdedigaeth,1912,slaughter,1912
+penrhyn,1913,cape,1913
+gonestrwydd,1914,honesty,1914
+gwrthdrawiad,1915,collision,1915
+clegr,1916,rock,1916
+llestr,1917,bark,1917
+cenfigen,1918,envy,1918
+awen,1919,muse,1919
+hugan,1920,cloak,1920
+dal,1921,to last,1921
+ysigo,1922,to sprain,1922
+curo,1923,to knock,1923
+brwynen,1924,to rush,1924
+meddu,1925,to own,1925
+hacio,1926,to chip,1926
+plygu,1927,to bow,1927
+gollwng,1928,to leak,1928
+cyffroi,1929,to stir,1929
+dangos,1930,to  indicate,1930
+bradwr,1931,traitor,1931
+llywodraethwr,1932,ruler,1932
+cyflawnder,1933,abundance,1933
+ymholiad,1934,inquiry,1934
+anhwylder,1935,illness,1935
+cerrigyn,1936,pebble,1936
+hysbysiad,1937,advertisement,1937
+godre,1938,border,1938
+baich,1939,load,1939
+maban,1940,infant,1940
+gwirion,1941,silly,1941
+tri,1942,three,1942
+caled,1943,severe,1943
+ciwbig,1944,cubic,1944
+mawr,1945,big,1945
+anfodlon,1946,reluctant,1946
+didwyll,1947,sincere,1947
+ffafriol,1948,favorable,1948
+cyllidol,1949,financial,1949
+cawraidd,1950,gigantic,1950
+seler,1951,cellar,1951
+penodiad,1952,appointment,1952
+pryf,1953,worm,1953
+cylchyn,1954,circumference,1954
+prynwr,1955,consumer,1955
+caer,1956,rampart,1956
+ehedydd,1957,lark,1957
+ffermio,1958,farming,1958
+bysbrint,1959,fingerprint,1959
+anner,1960,heifer,1960
+gwahanu,1961,to separate,1961
+llenwi,1962,to  fill,1962
+dibynnu,1963,to depend,1963
+cyfarch,1964,to address,1964
+pwyso,1965,to press,1965
+sancteiddio,1966,to  sanctify,1966
+ffrydio,1967,to  stream,1967
+blino,1968,to tire,1968
+ymlusgo,1969,to creep,1969
+esgyn,1970,to mount,1970
+rhodl,1971,paddle,1971
+anogiad,1972,inducement,1972
+goruchwyliwr,1973,steward,1973
+cosb,1974,retribution,1974
+meddwl,1975,meaning,1975
+swllt,1976,shilling,1976
+ochenaid,1977,sigh,1977
+gwrym,1978,seam,1978
+cloch,1979,bell,1979
+hawl,1980,right,1980
+erchyll,1981,atrocious,1981
+mewnol,1982,internal,1982
+eglur,1983,bold,1983
+afreolaidd,1984,irregular,1984
+teuluaidd,1985,domestic,1985
+gofalus,1986,careful,1986
+am,1987,about,1987
+sydyn,1988,sudden,1988
+annealladwy,1989,incomprehensible,1989
+ffodus,1990,fortunate,1990
+cynffon,1991,tail,1991
+angor,1992,anchor,1992
+ysgarmes,1993,skirmish,1993
+trawsffurfiad,1994,transformation,1994
+llid,1995,wrath,1995
+arwr,1996,hero,1996
+mabandod,1997,infancy,1997
+baglor,1998,bachelor,1998
+plas,1999,palace,1999
+alarch,2000,swan,2000
+crwydro,2001,to wander,2001
+ysbeilio,2002,to spoil,2002
+cyhuddo,2003,to charge,2003
+hudo,2004,to lure,2004
+adfer,2005,to  restore,2005
+haeddu,2006,to deserve,2006
+gwadu,2007,to deny,2007
+hau,2008,to sow,2008
+melltithio,2009,to curse,2009
+edrych,2010,to look,2010
+esboniwr,2011,commentator,2011
+cyffyrddiad,2012,contact,2012
+gorsaf,2013,station,2013
+moesau,2014,etiquette,2014
+ardreth,2015,rent,2015
+anegni,2016,inertia,2016
+rhuddem,2017,ruby,2017
+arogl,2018,odor,2018
+bryncyn,2019,hillock,2019
+pendefig,2020,nobleman,2020
+dirfawr,2021,huge,2021
+cyfleus,2022,convenient,2022
+odiaeth,2023,exquisite,2023
+twyllodrus,2024,deceptive,2024
+gwirfoddol,2025,voluntary,2025
+gwaradwyddus,2026,shameful,2026
+gormesol,2027,arbitrary,2027
+byw,2028,animate,2028
+difyrrus,2029,amusing,2029
+cyfoethog,2030,wealthy,2030
+dial,2031,revenge,2031
+cneuen,2032,nut,2032
+arwydd,2033,portent,2033
+crimog,2034,shin,2034
+pen,2035,vertex,2035
+bonyn,2036,stump,2036
+anghredadun,2037,unbeliever,2037
+cimwch,2038,lobster,2038
+newidydd,2039,transformer,2039
+ffwrd,2040,stream,2040
+tagu,2041,to choke,2041
+golygu,2042,to mean,2042
+ategu,2043,to stay,2043
+plethu,2044,to fold,2044
+gweddio,2045,to pray,2045
+cyhoeddi,2046,to publish,2046
+tarddu,2047,to spring,2047
+cynnwys,2048,to include,2048
+llunio,2049,to form,2049
+chwibanu,2050,to whistle,2050
+budd,2051,benefit,2051
+mesur,2052,dimension,2052
+morwr,2053,seaman,2053
+pwyll,2054,caution,2054
+cywreinrwydd,2055,curiosity,2055
+ysgrifen,2056,writing,2056
+cawell,2057,crate,2057
+heliwr,2058,hunter,2058
+eirinen,2059,plum,2059
+diwedd,2060,finish,2060
+gerllaw,2061,beside,2061
+anfynych,2062,seldom,2062
+tebygol,2063,probable,2063
+cerddorol,2064,musical,2064
+truenus,2065,pitiful,2065
+hynaws,2066,kind,2066
+tragwyddol,2067,everlasting,2067
+trafferthus,2068,annoying,2068
+cyfreithlon,2069,lawful,2069
+diffuant,2070,genuine,2070
+crybwylliad,2071,mention,2071
+tramgwydd,2072,offence,2072
+gwarth,2073,shame,2073
+cariad,2074,charity,2074
+pasiant,2075,pageant,2075
+macyn,2076,handkerchief,2076
+parch,2077,reverence,2077
+trwch,2078,thickness,2078
+siaced,2079,jacket,2079
+cyfieithiad,2080,translation,2080
+gafael,2081,to grasp,2081
+diosg,2082,to undress,2082
+hysbysu,2083,to  advertise,2083
+gweddu,2084,to fit,2084
+cymhwyso,2085,to adjust,2085
+parhau,2086,to endure,2086
+methu,2087,to miss,2087
+trin,2088,to handle,2088
+mynegi,2089,to tell,2089
+gwysio,2090,to summon,2090
+cornwyd,2091,sore,2091
+adyn,2092,wretch,2092
+geiriadur,2093,dictionary,2093
+diod,2094,drink,2094
+cytgan,2095,chorus,2095
+casglwr,2096,collector,2096
+bom,2097,bomb,2097
+amlen,2098,envelope,2098
+haint,2099,infection,2099
+siarad,2100,hearsay,2100
+llychlyd,2101,dusty,2101
+sarhaus,2102,abusive,2102
+cywir,2103,correct,2103
+deallus,2104,intellectual,2104
+noeth,2105,bare,2105
+tyner,2106,gentle,2106
+cyfrwys,2107,crafty,2107
+crwm,2108,convex,2108
+cyfareddol,2109,enchanting,2109
+dieflig,2110,fiendish,2110
+ymchwil,2111,search,2111
+si,2112,hum,2112
+gorllewin,2113,west,2113
+trosol,2114,staff,2114
+lloches,2115,lair,2115
+rhwystr,2116,obstacle,2116
+gormod,2117,excess,2117
+athrod,2118,libel,2118
+blys,2119,lust,2119
+gorlifiad,2120,inundation,2120
+pwrpasu,2121,to intend,2121
+gwahodd,2122,to bid,2122
+codi,2123,to  lift,2123
+gofalu,2124,to care,2124
+treulio,2125,to wear,2125
+ateb,2126,to suit,2126
+chwilio,2127,to  investigate,2127
+treiddio,2128,to enter,2128
+gweini,2129,to attend,2129
+ymddiried,2130,to trust,2130
+cwsmer,2131,customer,2131
+canran,2132,percentage,2132
+rhagflaenydd,2133,predecessor,2133
+ofn,2134,terror,2134
+berdysen,2135,shrimp,2135
+cyfrifoldeb,2136,responsibility,2136
+traddodiad,2137,tradition,2137
+ergyd,2138,shot,2138
+gwendid,2139,weakness,2139
+gorchudd,2140,veil,2140
+diniwed,2141,harmless,2141
+diymadferth,2142,helpless,2142
+atyniadol,2143,attractive,2143
+pryderus,2144,anxious,2144
+astud,2145,diligent,2145
+cynnil,2146,economical,2146
+crwca,2147,crooked,2147
+effro,2148,alert,2148
+uchelgeisiol,2149,ambitious,2149
+hanner,2150,half,2150
+anifail,2151,beast,2151
+hebog,2152,falcon,2152
+dyrnod,2153,stroke,2153
+arwyddlun,2154,symbol,2154
+crafanc,2155,claw,2155
+ymosodiad,2156,aggression,2156
+chwant,2157,craving,2157
+craig,2158,rock,2158
+ceudod,2159,cavity,2159
+lluman,2160,flag,2160
+pentyrru,2161,to pile,2161
+dadlwytho,2162,to unload,2162
+poeni,2163,to ail,2163
+cadw,2164,to detain,2164
+cythruddo,2165,to vex,2165
+gosod,2166,to lay,2166
+sylwi,2167,to observe,2167
+atal,2168,to check,2168
+cyflwyno,2169,to present,2169
+cymharu,2170,to compare,2170
+incil,2171,tape,2171
+mantell,2172,cloak,2172
+etholiad,2173,election,2173
+offrwm,2174,offering,2174
+tebygrwydd,2175,likeness,2175
+arddangosfa,2176,exhibition,2176
+hysbysydd,2177,advertiser,2177
+adolygydd,2178,reviewer,2178
+llwyth,2179,load,2179
+ffin,2180,frontier,2180
+mwy,2181,bigger,2181
+arferol,2182,usual,2182
+hael,2183,liberal,2183
+rhywbeth,2184,something,2184
+llydan,2185,wide,2185
+digon,2186,plenty,2186
+cas,2187,disagreeable,2187
+trychinebus,2188,disastrous,2188
+dim,2189,zero,2189
+traddodiadol,2190,traditional,2190
+plentyn,2191,infant,2191
+ych,2192,ox,2192
+dirprwyaeth,2193,commission,2193
+cyhoeddiad,2194,appointment,2194
+dirmyg,2195,contempt,2195
+rhew,2196,frost,2196
+tystysgrif,2197,diploma,2197
+cyw,2198,chicken,2198
+esgus,2199,pretext,2199
+gwaddol,2200,dowry,2200
+anrheithio,2201,to plunder,2201
+pobi,2202,to roast,2202
+pleidleisio,2203,to vote,2203
+siarsio,2204,to warn,2204
+bwrw,2205,to suppose,2205
+caledu,2206,to dry,2206
+clepian,2207,to clap,2207
+hoelio,2208,to nail,2208
+gwanhau,2209,to weaken,2209
+erchi,2210,to command,2210
+ernes,2211,guarantee,2211
+cyfarwyddyd,2212,instruction,2212
+trawst,2213,girder,2213
+clogwyn,2214,cliff,2214
+etholwr,2215,elector,2215
+arfer,2216,fashion,2216
+cynorthwywr,2217,helper,2217
+gorfoledd,2218,triumph,2218
+corwynt,2219,hurricane,2219
+llymder,2220,severity,2220
+taer,2221,urgent,2221
+cyffelyb,2222,like,2222
+gwahanol,2223,distinct,2223
+anniogel,2224,insecure,2224
+terfynol,2225,final,2225
+unig,2226,lonely,2226
+bodlon,2227,willing,2227
+canolig,2228,middling,2228
+ceugrwm,2229,concave,2229
+corfforol,2230,bodily,2230
+giewyn,2231,nerve,2231
+distryw,2232,ruin,2232
+haeddiant,2233,merit,2233
+eironi,2234,irony,2234
+cam,2235,step,2235
+purdeb,2236,purity,2236
+cyflogwr,2237,employer,2237
+chwedl,2238,tale,2238
+dicter,2239,wrath,2239
+gwniadur,2240,thimble,2240
+cyrchu,2241,to fetch,2241
+cyfaddef,2242,to confess,2242
+cymysgu,2243,to mix,2243
+berwi,2244,to boil,2244
+creu,2245,to create,2245
+cyfarwyddo,2246,to direct,2246
+ymddiswyddo,2247,to resign,2247
+diweddu,2248,to end,2248
+arfer,2249,to employ,2249
+digoni,2250,to  satisfy,2250
+eisteddle,2251,stand,2251
+cerddor,2252,musician,2252
+awgrym,2253,wrinkle,2253
+tyrfau,2254,thunder,2254
+brad,2255,betrayal,2255
+noddwr,2256,benefactor,2256
+dadl,2257,plea,2257
+braslun,2258,draft,2258
+ymborth,2259,board,2259
+pwyllgor,2260,committee,2260
+gieuol,2261,neural,2261
+wedyn,2262,afterwards,2262
+medrus,2263,expert,2263
+allanol,2264,external,2264
+annwyl,2265,beloved,2265
+ffel,2266,cunning,2266
+anfodlon,2267,unwilling,2267
+ffafriol,2268,auspicious,2268
+ofnus,2269,afraid,2269
+addas,2270,suitable,2270
+cynnen,2271,contention,2271
+llanw,2272,tide,2272
+baw,2273,filth,2273
+blas,2274,palate,2274
+urddas,2275,honor,2275
+tocyn,2276,hillock,2276
+anffyddlondeb,2277,infidelity,2277
+hiliogaeth,2278,offspring,2278
+mwstart,2279,mustard,2279
+gwrthryfel,2280,revolt,2280
+llywio,2281,to steer,2281
+penderfynu,2282,to resolve,2282
+rhwygo,2283,to tear,2283
+enwi,2284,to name,2284
+soddi,2285,to submerge,2285
+cynghori,2286,to advise,2286
+clodfori,2287,to praise,2287
+rhannu,2288,to  distribute,2288
+myned,2289,to proceed,2289
+dylanwadu,2290,to  influence,2290
+pwnc,2291,point,2291
+llodrau,2292,trousers,2292
+pysgodyn,2293,fish,2293
+maestref,2294,suburb,2294
+bodlonrwydd,2295,contentment,2295
+hufen,2296,cream,2296
+cynnud,2297,firewood,2297
+ffasnydd,2298,fastener,2298
+cyrnol,2299,colonel,2299
+fforwm,2300,forum,2300
+seithfed,2301,seventh,2301
+dibynbol,2302,dependent,2302
+gwael,2303,poorly,2303
+rhwng,2304,between,2304
+chwarter,2305,quarter,2305
+eilwaith,2306,again,2306
+awyddus,2307,eager,2307
+eofn,2308,bold,2308
+penderfynol,2309,decisive,2309
+oddeutu,2310,about,2310
+niwed,2311,hurt,2311
+rhosyn,2312,rose,2312
+rhwydo,2313,net,2313
+pechod,2314,offence,2314
+enyniad,2315,inflammation,2315
+pryf,2316,fly,2316
+arfaeth,2317,purpose,2317
+gwymon,2318,seaweed,2318
+clyw,2319,hearing,2319
+caer,2320,fort,2320
+cyfrannu,2321,to  contribute,2321
+gorfodi,2322,to force,2322
+ymgynnull,2323,to  collect,2323
+traddodi,2324,to deliver,2324
+llyncu,2325,to swallow,2325
+bendithio,2326,to bless,2326
+awgrymu,2327,to suggest,2327
+cynyddu,2328,to increase,2328
+darbwyllo,2329,to convince,2329
+rhegi,2330,to curse,2330
+chwyldro,2331,revolution,2331
+petryal,2332,rectangle,2332
+carrai,2333,thong,2333
+dull,2334,style,2334
+bwthyn,2335,cabin,2335
+cymrodedd,2336,arbitration,2336
+dyrchafiad,2337,advancement,2337
+meddwl,2338,opinion,2338
+alcam,2339,tin,2339
+beirniad,2340,censor,2340
+annealladwy,2341,unintelligible,2341
+derbyniol,2342,acceptable,2342
+pob,2343,every,2343
+cyhyd,2344,while,2344
+union,2345,straight,2345
+cywilyddus,2346,shameful,2346
+hyfryd,2347,pleasant,2347
+mawreddog,2348,grand,2348
+tyn,2349,fast,2349
+byw,2350,alive,2350
+cyfandir,2351,continent,2351
+hawl,2352,claim,2352
+caseg,2353,mare,2353
+draig,2354,dragon,2354
+plyg,2355,crease,2355
+gwaywffon,2356,lance,2356
+ffosil,2357,fossil,2357
+rhoddwr,2358,giver,2358
+gwneuthuriad,2359,make,2359
+llid,2360,irritation,2360
+bloeddio,2361,to shout,2361
+rhyfeddu,2362,to wonder,2362
+oedi,2363,to delay,2363
+crymu,2364,to bow,2364
+aros,2365,to stay,2365
+elwa,2366,to gain,2366
+llacio,2367,to relax,2367
+eiriol,2368,to pray,2368
+gwthio,2369,to thrust,2369
+dioddef,2370,to bear,2370
+cyhoeddwr,2371,publisher,2371
+metel,2372,metal,2372
+ffliw,2373,influenza,2373
+gwyfyn,2374,moth,2374
+modrwy,2375,ring,2375
+chwys,2376,perspiration,2376
+rhwd,2377,rust,2377
+arddwrn,2378,wrist,2378
+chwildrowr,2379,revolutionary,2379
+swynbeth,2380,talisman,2380
+dichellgar,2381,crafty,2381
+hynaws,2382,affable,2382
+trafferthus,2383,troublesome,2383
+caredig,2384,kind,2384
+cymhleth,2385,complex,2385
+ffyrnig,2386,fierce,2386
+ymestynnol,2387,extensive,2387
+presennol,2388,present,2388
+didwyll,2389,frank,2389
+gwaeth,2390,worse,2390
+gwald,2391,welt,2391
+ysgrifbin,2392,pen,2392
+llen,2393,veil,2393
+amgyffred,2394,understanding,2394
+magl,2395,trap,2395
+cymorth,2396,aid,2396
+coel,2397,credit,2397
+morgrugyn,2398,ant,2398
+traen,2399,drain,2399
+cyllell,2400,knife,2400
+angori,2401,to moor,2401
+ffurfio,2402,to form,2402
+adrodd,2403,to report,2403
+llithro,2404,to glide,2404
+cyfrif,2405,to reckon,2405
+dadwisgo,2406,to undress,2406
+ffrio,2407,to fry,2407
+cneifio,2408,to shear,2408
+newid,2409,to alter,2409
+plygu,2410,to fold,2410
+cyffro,2411,commotion,2411
+afanen,2412,raspberry,2412
+chwarren,2413,gland,2413
+ffetan,2414,sack,2414
+pupur,2415,pepper,2415
+pwyntil,2416,pencil,2416
+llaid,2417,slime,2417
+blinder,2418,vexation,2418
+apostol,2419,apostle,2419
+glo,2420,coal,2420
+dwywaith,2421,twice,2421
+gwlanog,2422,woollen,2422
+neilltuol,2423,certain,2423
+diwyd,2424,diligent,2424
+esgud,2425,alert,2425
+helaeth,2426,abundant,2426
+cybyddlyd,2427,miserly,2427
+difyrrus,2428,entertaining,2428
+euraid,2429,golden,2429
+fynychaf,2430,mostly,2430
+adferf,2431,adverb,2431
+datblygiad,2432,development,2432
+gwaradwydd,2433,disgrace,2433
+rhwymyn,2434,bond,2434
+hundy,2435,dormitory,2435
+cranc,2436,crab,2436
+buddugoliaeth,2437,conquest,2437
+celwyddgi,2438,liar,2438
+coediar,2439,pheasant,2439
+llysywen,2440,eel,2440
+teimlo,2441,to handle,2441
+darlunio,2442,to portray,2442
+taro,2443,to tap,2443
+argraffu,2444,to print,2444
+dychrynu,2445,to alarm,2445
+gwersyllu,2446,to camp,2446
+plisgo,2447,to husk,2447
+llinellu,2448,to line,2448
+croesawu,2449,to welcome,2449
+ystyried,2450,to attend,2450
+ffinale,2451,finale,2451
+ffwrn,2452,oven,2452
+gorlif,2453,overflow,2453
+melfed,2454,velvet,2454
+rhyddhad,2455,liberation,2455
+canfyddiad,2456,perception,2456
+masarnen,2457,maple,2457
+buander,2458,velocity,2458
+maint,2459,size,2459
+gwehydd,2460,weaver,2460
+cyfoes,2461,contemporary,2461
+pan,2462,when,2462
+trwsgl,2463,wooden,2463
+llawen,2464,glad,2464
+tew,2465,stout,2465
+main,2466,fine,2466
+cyfreithlon,2467,legal,2467
+cywir,2468,accurate,2468
+taer,2469,earnest,2469
+cyfrwys,2470,cunning,2470
+porthiant,2471,fodder,2471
+gwrthwynebiad,2472,aversion,2472
+dyfais,2473,device,2473
+blys,2474,craving,2474
+tybiaeth,2475,supposition,2475
+blif,2476,catapult,2476
+parch,2477,esteem,2477
+offeiriad,2478,priest,2478
+cofadail,2479,monument,2479
+tymor,2480,season,2480
+cynnig,2481,to bid,2481
+gweddu,2482,to suit,2482
+swyno,2483,to enthral,2483
+ymgymryd,2484,to undertake,2484
+parhau,2485,to rest,2485
+hogi,2486,to sharpen,2486
+crwydro,2487,to roam,2487
+hudo,2488,to  attract,2488
+twyllo,2489,to swindle,2489
+torri,2490,to hack,2490
+goruchwyliwr,2491,overseer,2491
+cadeirydd,2492,chairman,2492
+anrhydedd,2493,honor,2493
+crug,2494,hillock,2494
+ergyd,2495,stroke,2495
+perygl,2496,danger,2496
+balchder,2497,arrogance,2497
+almon,2498,almond,2498
+pwys,2499,importance,2499
+clefyd,2500,disease,2500
+dieflig,2501,devilish,2501
+hy,2502,bold,2502
+bodlon,2503,content,2503
+gwyddonol,2504,scientific,2504
+arwyddol,2505,typical,2505
+amddifad,2506,orphan,2506
+anianol,2507,natural,2507
+trychinebus,2508,calamitous,2508
+taclus,2509,tidy,2509
+olynol,2510,consecutive,2510
+addurn,2511,decoration,2511
+cystadleuydd,2512,competitor,2512
+ymarfer,2513,exercise,2513
+sychdwr,2514,drought,2514
+daear,2515,ground,2515
+ernes,2516,pledge,2516
+digwyddiad,2517,event,2517
+addurnwr,2518,decorator,2518
+byddin,2519,host,2519
+ymfoddhad,2520,complacency,2520
+ysbeilio,2521,to plunder,2521
+hawlio,2522,to demand,2522
+edrych,2523,to behold,2523
+gadael,2524,to quit,2524
+rhybuddio,2525,to warn,2525
+arddangos,2526,to display,2526
+curo,2527,to clap,2527
+parch,2528,to respect,2528
+haeddu,2529,to  merit,2529
+rhuthro,2530,to dash,2530
+tyn,2531,can,2531
+croesfan,2532,crossing,2532
+cyflog,2533,fee,2533
+llyn,2534,lake,2534
+gwersyll,2535,encampment,2535
+ymdrech,2536,exertion,2536
+tryblith,2537,muddle,2537
+rhad,2538,favor,2538
+drwg,2539,hurt,2539
+cydweithrediad,2540,cooperation,2540
+arab,2541,pleasant,2541
+gwael,2542,mean,2542
+mil,2543,thousand,2543
+gwrthwyneb,2544,opposite,2544
+eofn,2545,forward,2545
+diolchgar,2546,thankful,2546
+mawr,2547,great,2547
+cysegredig,2548,sacred,2548
+ymaith,2549,away,2549
+rhydlyd,2550,rusty,2550
+lleihad,2551,decrease,2551
+cyhoeddiad,2552,engagement,2552
+bwriad,2553,purpose,2553
+camlas,2554,canal,2554
+adail,2555,building,2555
+canhwyllyr,2556,chandelier,2556
+tabwrdd,2557,drum,2557
+plas,2558,hall,2558
+disbyddwr,2559,exhaust,2559
+pellen,2560,ball,2560
+morthwylio,2561,to hammer,2561
+simsanu,2562,to  totter,2562
+hyfforddi,2563,to direct,2563
+beio,2564,to blame,2564
+ymddeol,2565,to resign,2565
+parchu,2566,to esteem,2566
+bodloni,2567,to  satisfy,2567
+hysbysu,2568,to announce,2568
+trechu,2569,to surpass,2569
+amlygu,2570,to reveal,2570
+caban,2571,cabin,2571
+bricyllen,2572,apricot,2572
+llun,2573,picture,2573
+desg,2574,desk,2574
+egwyddor,2575,alphabet,2575
+atig,2576,attic,2576
+cydymgeisydd,2577,rival,2577
+didyniad,2578,deduction,2578
+trosol,2579,crowbar,2579
+cwyn,2580,complaint,2580
+tramor,2581,foreign,2581
+trwyadl,2582,thorough,2582
+nodedig,2583,remarkable,2583
+blinderus,2584,troublesome,2584
+diogel,2585,secure,2585
+anarferol,2586,unusual,2586
+lleiaf,2587,least,2587
+parchus,2588,respectful,2588
+annheg,2589,unfair,2589
+pell,2590,distant,2590
+gorludded,2591,exhaustion,2591
+pren,2592,timber,2592
+gwareiddiad,2593,civilization,2593
+trachwant,2594,lust,2594
+breichled,2595,bangle,2595
+uchder,2596,altitude,2596
+derbyniad,2597,acceptance,2597
+gwahaniaeth,2598,difference,2598
+ymborth,2599,meat,2599
+bachu,2600,hook,2600
+dringo,2601,to climb,2601
+rhwymo,2602,to bind,2602
+disgleirio,2603,to shine,2603
+methu,2604,to fail,2604
+trin,2605,to treat,2605
+anturio,2606,to venture,2606
+dilladu,2607,to clothe,2607
+pechu,2608,to sin,2608
+codi,2609,to rise,2609
+bedyddio,2610,to baptize,2610
+barn,2611,opinion,2611
+ymgyfarfod,2612,encounter,2612
+cystadleuath,2613,competition,2613
+byd,2614,state,2614
+diffeithwch,2615,desert,2615
+ffon,2616,stick,2616
+esgob,2617,bishop,2617
+rhedweli,2618,artery,2618
+gofal,2619,care,2619
+cymeriad,2620,character,2620
+gwarthus,2621,disreputable,2621
+rhywle,2622,somewhere,2622
+cynwysedig,2623,inclusive,2623
+llon,2624,glad,2624
+difrif,2625,earnest,2625
+cyfarwydd,2626,accustomed,2626
+drwg,2627,bad,2627
+parhaol,2628,permanent,2628
+hen,2629,ancient,2629
+garw,2630,harsh,2630
+cwblhad,2631,completion,2631
+llwgrwobrwy,2632,bribe,2632
+creulondeb,2633,cruelty,2633
+gwrthryfel,2634,rebellion,2634
+coeten,2635,quiz,2635
+meddyginiaeth,2636,remedy,2636
+cynnwrf,2637,commotion,2637
+areithiwr,2638,speaker,2638
+cyfeiliant,2639,accompaniment,2639
+ysgrif,2640,article,2640
+ymrwygo,2641,to tear,2641
+goddiweddyd,2642,to overtake,2642
+gwella,2643,to cure,2643
+sefydlu,2644,to found,2644
+crynhoi,2645,to  collect,2645
+adfywio,2646,to refresh,2646
+gwerthfawrogi,2647,to value,2647
+cadw,2648,to preserve,2648
+gwylio,2649,to watch,2649
+gosod,2650,to set,2650
+cytundeb,2651,agreement,2651
+cyfansoddwr,2652,composer,2652
+casineb,2653,dislike,2653
+marwor,2654,charcoal,2654
+prysgwydd,2655,copse,2655
+gorchfygiad,2656,defeat,2656
+braw,2657,fright,2657
+llafur,2658,labor,2658
+gwaddol,2659,endowment,2659
+pryf,2660,insect,2660
+ai,2661,whether,2661
+cyfareddol,2662,charming,2662
+cwrtais,2663,courteous,2663
+effro,2664,prepared,2664
+esgud,2665,active,2665
+dymunol,2666,pleasant,2666
+eglur,2667,plain,2667
+geirwir,2668,truthful,2668
+truenus,2669,wretched,2669
+teyrngar,2670,loyal,2670
+gwledd,2671,feast,2671
+syndod,2672,amazement,2672
+cwrel,2673,coral,2673
+islawr,2674,basement,2674
+cyfansoddiad,2675,composition,2675
+dygnwch,2676,endurance,2676
+meddwyn,2677,drunkard,2677
+saeth,2678,arrow,2678
+cortyn,2679,cord,2679
+crawen,2680,crust,2680
+difetha,2681,to destroy,2681
+mwynhau,2682,to enjoy,2682
+chwyddo,2683,to increase,2683
+rhyddhau,2684,to free,2684
+argyhoeddi,2685,to convince,2685
+gostwng,2686,to lower,2686
+cefnogi,2687,to support,2687
+siarsio,2688,to charge,2688
+aflonyddu,2689,to disturb,2689
+datguddio,2690,to uncover,2690
+ynni,2691,energy,2691
+gollyngdod,2692,release,2692
+blawd,2693,flour,2693
+adfyd,2694,adversity,2694
+credwr,2695,believer,2695
+gwlith,2696,dew,2696
+annedd,2697,dwelling,2697
+rhaeadr,2698,cataract,2698
+dewis,2699,choice,2699
+arweinydd,2700,guide,2700
+ynghynt,2701,sooner,2701
+byr,2702,brief,2702
+dieithr,2703,foreign,2703
+hynod,2704,remarkable,2704
+ymhlith,2705,among,2705
+graddol,2706,gradual,2706
+helaeth,2707,roomy,2707
+aml,2708,many,2708
+sicr,2709,certain,2709
+arall,2710,else,2710
+prynwr,2711,buyer,2711
+llid,2712,inflammation,2712
+cysgod,2713,type,2713
+dyletswydd,2714,duty,2714
+ymddangosiad,2715,appearance,2715
+gwystl,2716,pledge,2716
+canlyniad,2717,result,2717
+tafodiaith,2718,dialect,2718
+trychineb,2719,catastrophe,2719
+capten,2720,captain,2720
+gorchfygu,2721,to defeat,2721
+ennill,2722,to gain,2722
+dangos,2723,to exhibit,2723
+blino,2724,to annoy,2724
+diraddio,2725,to degrade,2725
+atgyweirio,2726,to repair,2726
+dryllio,2727,to  shatter,2727
+dwyn,2728,to bear,2728
+ymosod,2729,to attack,2729
+cywiro,2730,to correct,2730
+maestref,2731,suburb,2731
+hebog,2732,hawk,2732
+perarogl,2733,perfume,2733
+cwd,2734,bag,2734
+coel,2735,belief,2735
+gweithred,2736,act,2736
+gylfinir,2737,curlew,2737
+cyw,2738,chick,2738
+difyrrwch,2739,entertainment,2739
+tir,2740,ground,2740
+llysaidd,2741,courtly,2741
+uwch,2742,superior,2742
+penodol,2743,definite,2743
+boneddigaidd,2744,respectful,2744
+arab,2745,witty,2745
+dichellgar,2746,cunning,2746
+cyfan,2747,whole,2747
+rhosynnaidd,2748,rosy,2748
+priodol,2749,appropriate,2749
+gwastad,2750,level,2750
+helaethiad,2751,extension,2751
+plyg,2752,fold,2752
+crybwylliad,2753,notice,2753
+budd,2754,profit,2754
+cyflwr,2755,condition,2755
+edau,2756,cotton,2756
+achos,2757,cause,2757
+ffafr,2758,favor,2758
+pig,2759,bill,2759
+cyfreithiwr,2760,barrister,2760
+aredig,2761,to plough,2761
+cysylltu,2762,to join,2762
+adnabod,2763,to  identify,2763
+addunedu,2764,to vow,2764
+cymell,2765,to urge,2765
+lluddedu,2766,to fatigue,2766
+atgofio,2767,to remind,2767
+taflu,2768,to hurl,2768
+enwi,2769,to specify,2769
+gollwng,2770,to tap,2770
+clais,2771,bruise,2771
+masnachwr,2772,dealer,2772
+ffawydden,2773,beech,2773
+syniad,2774,notion,2774
+plisgyn,2775,shell,2775
+gohebbydd,2776,correspondent,2776
+dawns,2777,ball,2777
+cof,2778,remembrance,2778
+dwyrain,2779,east,2779
+migwrn,2780,ankle,2780
+gan,2781,since,2781
+noeth,2782,naked,2782
+nesaf,2783,nearest,2783
+anniogel,2784,unsafe,2784
+medrus,2785,adroit,2785
+anferth,2786,huge,2786
+ffel,2787,shrewd,2787
+dewr,2788,valiant,2788
+blaenaf,2789,former,2789
+prif,2790,prime,2790
+tolc,2791,dent,2791
+ffwrn,2792,furnace,2792
+deintydd,2793,dentist,2793
+rhedegol,2794,current,2794
+niwl,2795,mist,2795
+addysg,2796,education,2796
+cyswllt,2797,connection,2797
+brethyn,2798,cloth,2798
+ffos,2799,ditch,2799
+adran,2800,division,2800
+cynghori,2801,to exhort,2801
+ymddiried,2802,to entrust,2802
+amddifadu,2803,to deprive,2803
+cyfarch,2804,to greet,2804
+rhoddi,2805,to grant,2805
+dethol,2806,to select,2806
+cyfathrebu,2807,to  communicate,2807
+esgeuluso,2808,to neglect,2808
+gwaradwyddo,2809,to reproach,2809
+traddodi,2810,to surrender,2810
+twymyn,2811,fever,2811
+dyfais,2812,invention,2812
+ffiwdaliaeth,2813,feudalism,2813
+amgylchedd,2814,environment,2814
+cig,2815,meat,2815
+cymar,2816,fellow,2816
+porthiant,2817,sustenance,2817
+cyhoeddwr,2818,announcer,2818
+bidog,2819,bayonet,2819
+ffydd,2820,faith,2820
+ysgeler,2821,atrocious,2821
+anghofus,2822,forgetful,2822
+ffodus,2823,lucky,2823
+parchus,2824,respectable,2824
+gwarthus,2825,shameful,2825
+truan,2826,wretched,2826
+llai,2827,smaller,2827
+awyddus,2828,anxious,2828
+nawfed,2829,ninth,2829
+penderfynol,2830,resolute,2830
+cydymdeimlad,2831,condolence,2831
+llofft,2832,loft,2832
+haeddiant,2833,desert,2833
+canol,2834,center,2834
+pennod,2835,chapter,2835
+noddwr,2836,protector,2836
+gwrthrych,2837,subject,2837
+dafad,2838,wart,2838
+dallineb,2839,blindness,2839
+adnau,2840,deposit,2840
+ymlid,2841,to pursue,2841
+atolgyu,2842,to beseech,2842
+nychu,2843,to languish,2843
+gofyn,2844,to demand,2844
+cadarnhau,2845,to  fortify,2845
+rhyfeddu,2846,to marvel,2846
+aros,2847,to rest,2847
+cystuddio,2848,to  afflict,2848
+llacio,2849,to loosen,2849
+adnewyddu,2850,to renew,2850
+cyffaith,2851,confection,2851
+ysgariad,2852,divorce,2852
+erthygl,2853,article,2853
+haint,2854,epidemic,2854
+cydfod,2855,agreement,2855
+gofid,2856,trouble,2856
+echdyniad,2857,extract,2857
+blinder,2858,annoyance,2858
+ysgolhaig,2859,scholar,2859
+tryblith,2860,chaos,2860
+dychryn,2861,fright,2861
+trafodaeth,2862,discussion,2862
+tymor,2863,term,2863
+awyrgylch,2864,atmosphere,2864
+gweithgarwch,2865,activity,2865
+tro,2866,curve,2866
+bwcl,2867,buckle,2867
+swm,2868,amount,2868
+bwriad,2869,intention,2869
+argraffiad,2870,edition,2870
+rheoli,2871,to control,2871
+brawychu,2872,to  frighten,2872
+anfodloni,2873,to  displease,2873
+diwallu,2874,to  satisfy,2874
+maethu,2875,to nourish,2875
+eiriol,2876,to plead,2876
+rhwystro,2877,to hinder,2877
+caethiwo,2878,to bind,2878
+plygu,2879,to wrap,2879
+ysgwyd,2880,to  flourish,2880
+arfer,2881,use,2881
+ysbeiliwr,2882,spoiler,2882
+cymeradwyaeth,2883,applause,2883
+brys,2884,haste,2884
+dim,2885,anything,2885
+cysur,2886,consolation,2886
+cyhuddiad,2887,charge,2887
+tywyllwch,2888,darkness,2888
+trefedigaeth,2889,colony,2889
+ymerodres,2890,empress,2890
+ysglyfaeth,2891,booty,2891
+lindys,2892,caterpillar,2892
+ffordd,2893,way,2893
+casgen,2894,cask,2894
+gwyntyll,2895,fan,2895
+crwydryn,2896,tramp,2896
+iawn,2897,atonement,2897
+crug,2898,blister,2898
+blaguryn,2899,bud,2899
+dyfnder,2900,depth,2900
+tynnu,2901,to  attract,2901
+taro,2902,to suit,2902
+arwain,2903,to guide,2903
+dibrisio,2904,to despise,2904
+meddyginiaethu,2905,to cure,2905
+dirboeni,2906,to  torture,2906
+ystyried,2907,to ponder,2907
+dechrau,2908,to found,2908
+colli,2909,to perish,2909
+prisio,2910,to value,2910
+cardotyn,2911,beggar,2911
+dadl,2912,argument,2912
+cod,2913,pouch,2913
+llythyren,2914,type,2914
+damwain,2915,fate,2915
+uchder,2916,top,2916
+ateb,2917,answer,2917
+cludydd,2918,carrier,2918
+cyfrinachol,2919,confidential,2919
+bual,2920,buffalo,2920
+llethu,2921,to suppress,2921
+amddiffyn,2922,to protect,2922
+gwyrdoi,2923,to pervert,2923
+elain,2924,to fawn,2924
+cyfaddasu,2925,to adapt,2925
+addoli,2926,to adore,2926
+cynnal,2927,to support,2927
+datod,2928,to untie,2928
+cryfhau,2929,to  strengthen,2929
+cludo,2930,to bear,2930
+ffetan,2931,bag,2931
+cymeriad,2932,reputation,2932
+ynfydrwydd,2933,foolishness,2933
+peiriant,2934,engine,2934
+arf,2935,tool,2935
+llawr,2936,ground,2936
+eithriad,2937,exception,2937
+cwrw,2938,beer,2938
+pelydryn,2939,beam,2939
+rhybudd,2940,notice,2940
+rhuthro,2941,to attack,2941
+ceryddu,2942,to correct,2942
+erfyn,2943,to  supplicate,2943
+llidio,2944,to  exasperate,2944
+peidio,2945,to cease,2945
+trechu,2946,to conquer,2946
+teyrnasu,2947,to reign,2947
+hysbysu,2948,to acquaint,2948
+cyfyngu,2949,to  limit,2949
+amlhau,2950,to abound,2950
+ansawdd,2951,condition,2951
+gwasanaeth,2952,attendance,2952
+gwiber,2953,adder,2953
+gelyniaeth,2954,antagonism,2954
+cynghorwr,2955,councillor,2955
+cetrisen,2956,cartridge,2956
+disgyniad,2957,descent,2957
+braw,2958,dismay,2958
+plentyndod,2959,childhood,2959
+adlais,2960,echo,2960
+cydio,2961,to join,2961
+galaru,2962,to lament,2962
+ymatal,2963,to abstain,2963
+annog,2964,to urge,2964
+cyhoeddi,2965,to  proclaim,2965
+gwella,2966,to improve,2966
+dal,2967,to  maintain,2967
+hyrddio,2968,to hurl,2968
+annerch,2969,to greet,2969
+dewis,2970,to select,2970
+bargyfreithiwr,2971,barrister,2971
+cadarnhad,2972,confirmation,2972
+cymdeithas,2973,society,2973
+tyb,2974,notion,2974
+grym,2975,power,2975
+dirmyg,2976,scorn,2976
+ffatri,2977,factory,2977
+ychwanegiad,2978,addition,2978
+gafrewig,2979,antelope,2979
+sir,2980,county,2980
+canghennu,2981,to branch,2981
+collfarnu,2982,to condemn,2982
+drygu,2983,to harm,2983
+byrhau,2984,to  abbreviate,2984
+gorchymyn,2985,to decree,2985
+cyfarth,2986,to bark,2986
+ymostwng,2987,to deign,2987
+datguddio,2988,to reveal,2988
+cynaeafu,2989,to harvest,2989
+tosturio,2990,to pity,2990
+ysmotyn,2991,blotch,2991
+drewbryf,2992,bug,2992
+pensaer,2993,architect,2993
+disgrifiad,2994,description,2994
+clun,2995,moor,2995
+cortyn,2996,rope,2996
+cromen,2997,dome,2997
+awdurdod,2998,authority,2998
+cyfrif,2999,count,2999
+gweddill,3000,balance,3000
+lleihau,3001,to  diminish,3001
+penlinio,3002,to kneel,3002
+erchi,3003,to demand,3003
+petruso,3004,to  hesitate,3004
+arswydo,3005,to dread,3005
+gofidio,3006,to  afflict,3006
+llywodraethu,3007,to control,3007
+atal,3008,to hinder,3008
+blodeuo,3009,to  flourish,3009
+trywanu,3010,to pierce,3010
+chwys,3011,sweat,3011
+rhyfeddod,3012,wonder,3012
+rhan,3013,division,3013
+cydymaith,3014,companion,3014
+cennad,3015,courier,3015
+dyrnod,3016,blow,3016
+porth,3017,port,3017
+clefyd,3018,fever,3018
+gwregys,3019,belt,3019
+esmwythdra,3020,ease,3020
+cysgu,3021,to nap,3021
+difrodi,3022,to waste,3022
+coethi,3023,to  chastise,3023
+enllibio,3024,to slander,3024
+lluddedu,3025,to tire,3025
+hwyhau,3026,to prolong,3026
+llonyddu,3027,to assuage,3027
+mabwysiadu,3028,to adopt,3028
+amharchu,3029,to dishonor,3029
+rhyddhau,3030,to loosen,3030
+barn,3031,sentence,3031
+cydraddoldeb,3032,equality,3032
+cariad,3033,lover,3033
+dirywiad,3034,deterioration,3034
+traul,3035,expense,3035
+dwrn,3036,knob,3036
+ymborth,3037,sustenance,3037
+allanfa,3038,exit,3038
+canlyniad,3039,consequence,3039
+cyfarchiad,3040,compliment,3040
+ymddiried,3041,to confide,3041
+tywys,3042,to guide,3042
+arddywedyd,3043,to  dictate,3043
+dirmygu,3044,to despise,3044
+igian,3045,to sob,3045
+poeni,3046,to  torture,3046
+sglefrio,3047,to slide,3047
+amgylchu,3048,to encompass,3048
+trengi,3049,to perish,3049
+cau,3050,to enclose,3050
+gwastatir,3051,plain,3051
+gwrthnaws,3052,antipathy,3052
+anerchiad,3053,address,3053
+atyniad,3054,attraction,3054
+llys,3055,court,3055
+oerni,3056,chill,3056
+pastwn,3057,bludgeon,3057
+lloches,3058,shelter,3058
+gweithred,3059,action,3059
+pwnc,3060,subject,3060
+cefnogi,3061,to encourage,3061
+brathu,3062,to stab,3062
+crafangu,3063,to grab,3063
+atseinio,3064,to resound,3064
+gosod,3065,to attach,3065
+tywynnu,3066,to  glitter,3066
+meddu,3067,to possess,3067
+cynnig,3068,to  attempt,3068
+mynnu,3069,to  persist,3069
+ymlid,3070,to rout,3070
+goruchwyliwr,3071,agent,3071
+amrant,3072,eyelid,3072
+cyfyngder,3073,trouble,3073
+troseddwr,3074,criminal,3074
+sylw,3075,comment,3075
+marchog,3076,equestrian,3076
+bwled,3077,bullet,3077
+ymchwil,3078,research,3078
+acen,3079,accent,3079
+masnach,3080,traffic,3080
+amau,3081,to contest,3081
+erlyn,3082,to pursue,3082
+elwa,3083,to benefit,3083
+ehangu,3084,to enlarge,3084
+rhagweld,3085,to foresee,3085
+gorchfygu,3086,to conquer,3086
+taclu,3087,to equip,3087
+meithrin,3088,to cherish,3088
+ymagor,3089,to unfold,3089
+lledu,3090,to spread,3090
+bai,3091,defect,3091
+swp,3092,bunch,3092
+cynllun,3093,design,3093
+rheolaeth,3094,dominion,3094
+syniad,3095,view,3095
+arferiad,3096,use,3096
+bargod,3097,eaves,3097
+enwogrwydd,3098,fame,3098
+dawns,3099,dance,3099
+traeth,3100,strand,3100
+cymysgu,3101,to confound,3101
+amlygu,3102,to expose,3102
+diferu,3103,to drop,3103
+lledorwedd,3104,to  recline,3104
+diflasu,3105,to disgust,3105
+sicrhau,3106,to fasten,3106
+hyfforddi,3107,to  instruct,3107
+cyfateb,3108,to agree,3108
+cadarnhau,3109,to  confirm,3109
+gorlifo,3110,to overflow,3110
+migwrn,3111,knuckle,3111
+drwg,3112,evil,3112
+eingion,3113,anvil,3113
+newid,3114,change,3114
+rhoddwr,3115,donor,3115
+niwl,3116,haze,3116
+ymladdwr,3117,fighter,3117
+erydiad,3118,erosion,3118
+balchder,3119,vanity,3119
+arwerthwr,3120,auctioneer,3120
+cyhuddo,3121,to accuse,3121
+medi,3122,to reap,3122
+niweidio,3123,to harm,3123
+ofni,3124,to dread,3124
+gwahaniaethu,3125,to  distinguish,3125
+cysuro,3126,to  comfort,3126
+croesi,3127,to cross,3127
+adfywhau,3128,to  resuscitate,3128
+drwgdybiaeth,3129,to  distrust,3129
+rhestru,3130,to rank,3130
+cyfamod,3131,covenant,3131
+adran,3132,department,3132
+tystysgrif,3133,certificate,3133
+oriel,3134,gallery,3134
+chwysigen,3135,blister,3135
+effaith,3136,effect,3136
+nodd,3137,sap,3137
+mainc,3138,bench,3138
+eiriolwr,3139,advocate,3139
+galwad,3140,demand,3140
+ceryddu,3141,to reproach,3141
+gwasgu,3142,to crush,3142
+pregethu,3143,to preach,3143
+fflachio,3144,to flash,3144
+hysbysu,3145,to advise,3145
+adennill,3146,to recover,3146
+amhwyllo,3147,to go mad,3147
+cwyro,3148,to polish,3148
+cysgodi,3149,to  shelter,3149
+ffugio,3150,to pretend,3150
+cwd,3151,pouch,3151
+cymhwysiad,3152,application,3152
+cyfansoddiad,3153,constitution,3153
+perth,3154,bush,3154
+anwylyd,3155,darling,3155
+hunanoldeb,3156,egotism,3156
+pen,3157,top,3157
+digwyddiad,3158,occurrence,3158
+derbyniad,3159,reception,3159
+hinsawdd,3160,climate,3160
+ymgynghori,3161,to confer,3161
+annog,3162,to incite,3162
+lleddfu,3163,to assuage,3163
+hyderu,3164,to confide,3164
+diogelu,3165,to secure,3165
+diddyfnu,3166,to wean,3166
+gwingo,3167,to struggle,3167
+drwgdybio,3168,to suspect,3168
+dychan,3169,to  satirize,3169
+boddio,3170,to  gratify,3170
+dyfarniad,3171,verdict,3171
+trefn,3172,system,3172
+cadair,3173,udder,3173
+ansoddair,3174,adjective,3174
+epa,3175,ape,3175
+gorchudd,3176,cover,3176
+arch,3177,coffin,3177
+gwladwr,3178,countryman,3178
+cistan,3179,casket,3179
+cymanfa,3180,congress,3180
+puro,3181,to clean,3181
+celu,3182,to conceal,3182
+ymostwng,3183,to submit,3183
+gwrthwynebu,3184,to oppose,3184
+darostwng,3185,to subject,3185
+difetha,3186,to ruin,3186
+edifarhau,3187,to repent,3187
+arfer,3188,to accustom,3188
+llofruddio,3189,to murder,3189
+digoni,3190,to  suffice,3190
+gwisg,3191,garment,3191
+rhathell,3192,file,3192
+bathodyn,3193,medal,3193
+twyll,3194,fraud,3194
+trawst,3195,beam,3195
+gofid,3196,grief,3196
+gofalwr,3197,caretaker,3197
+priodas,3198,wedding,3198
+cerdyn,3199,card,3199
+bwyall,3200,axe,3200
+dadlau,3201,to debate,3201
+gwyngalchu,3202,to whitewash,3202
+disgleirio,3203,to  glitter,3203
+hawlio,3204,to claim,3204
+cyfoethogi,3205,to enrich,3205
+cynnal,3206,to sustain,3206
+synnu,3207,to astound,3207
+blodeuo,3208,to blossom,3208
+cwyno,3209,to complain,3209
+ymddeol,3210,to  retire,3210
+ing,3211,distress,3211
+toes,3212,dough,3212
+garan,3213,crane,3213
+mabandod,3214,childhood,3214
+popeth,3215,everything,3215
+cyfyngydd,3216,constraint,3216
+arweinydd,3217,conductor,3217
+porthladd,3218,port,3218
+meistr,3219,boss,3219
+pabell,3220,tent,3220
+myfyrio,3221,to muse,3221
+coethi,3222,to refine,3222
+cuddio,3223,to cloak,3223
+diffodd,3224,to  extinguish,3224
+perthyn,3225,to belong,3225
+datblygu,3226,to unfold,3226
+gadael,3227,to forsake,3227
+treulio,3228,to consume,3228
+dirmygu,3229,to scorn,3229
+codi,3230,to arise,3230
+unbennaeth,3231,dictatorship,3231
+ysgrif,3232,document,3232
+echel,3233,axis,3233
+ystafell,3234,camera,3234
+gallu,3235,power,3235
+camwerthyd,3236,crankshaft,3236
+manblu,3237,down,3237
+ysbeiliwr,3238,robber,3238
+adeiladwaith,3239,construction,3239
+cysur,3240,comfort,3240
+rhyddhau,3241,to  liberate,3241
+lladrata,3242,to rob,3242
+poeni,3243,to harass,3243
+rhodli,3244,to paddle,3244
+addysgu,3245,to  instruct,3245
+cytuno,3246,to agree,3246
+rhathu,3247,to rub,3247
+darbwyllo,3248,to induce,3248
+cyfyngu,3249,to confine,3249
+brathu,3250,to pierce,3250
+tragwyddoldeb,3251,eternity,3251
+fferm,3252,farm,3252
+trefedigaeth,3253,settlement,3253
+swyn,3254,magic,3254
+anrheg,3255,gift,3255
+carrai,3256,lace,3256
+clorian,3257,balance,3257
+arwedd,3258,feature,3258
+amlen,3259,wrapper,3259
+gwrthwynebiad,3260,objection,3260
+galaru,3261,to grieve,3261
+brysio,3262,to hurry,3262
+amcanu,3263,to intend,3263
+cyflawni,3264,to  accomplish,3264
+lliwio,3265,to color,3265
+ceisio,3266,to  attempt,3266
+diddanu,3267,to  comfort,3267
+gollwng,3268,to  dismiss,3268
+ymlid,3269,to chase,3269
+ysgafnhau,3270,to  alleviate,3270
+diod,3271,beverage,3271
+bwa,3272,arc,3272
+crwydryn,3273,vagrant,3273
+braw,3274,terror,3274
+clai,3275,clay,3275
+cytundeb,3276,contract,3276
+cyfarwyddwr,3277,director,3277
+ergyd,3278,blow,3278
+credydwr,3279,creditor,3279
+chwithedd,3280,embarrassment,3280
+dofi,3281,to tame,3281
+gwawdio,3282,to  ridicule,3282
+dirwyn,3283,to wind,3283
+ysigo,3284,to crush,3284
+proffidio,3285,to profit,3285
+dilyn,3286,to pursue,3286
+gloywi,3287,to polish,3287
+trawsffurfio,3288,to  transform,3288
+meithrin,3289,to nurture,3289
+tewhau,3290,to thicken,3290
+pryder,3291,anxiety,3291
+defod,3292,custom,3292
+cod,3293,bag,3293
+argoel,3294,token,3294
+pont,3295,arch,3295
+dolur,3296,ailment,3296
+cyfathrebiad,3297,communication,3297
+casineb,3298,antipathy,3298
+casgen,3299,barrel,3299
+anabledd,3300,disability,3300
+cysegru,3301,to devote,3301
+morgeisio,3302,to mortgage,3302
+atgofio,3303,to  recollect,3303
+tywallt,3304,to pour,3304
+crybwyll,3305,to mention,3305
+brolio,3306,to boast,3306
+cymedroli,3307,to  moderate,3307
+parchu,3308,to revere,3308
+estyn,3309,to  stretch,3309
+gorchfygu,3310,to overcome,3310
+gwrthwyneb,3311,contrary,3311
+hosan,3312,stocking,3312
+hysbysiad,3313,announcement,3313
+ffeuen,3314,bean,3314
+bwced,3315,bucket,3315
+cengl,3316,band,3316
+asgwrn,3317,bone,3317
+amcan,3318,aim,3318
+pelydryn,3319,ray,3319
+cyflwr,3320,case,3320
+achosi,3321,to engender,3321
+ymosod,3322,to assault,3322
+bwrw,3323,to cast,3323
+dirnad,3324,to discern,3324
+creu,3325,to beget,3325
+mwmian,3326,to hum,3326
+lletya,3327,to lodge,3327
+effeithio,3328,to affect,3328
+digio,3329,to anger,3329
+llychwino,3330,to stain,3330
+gyrrwr,3331,chauffeur,3331
+rhwymyn,3332,brace,3332
+comiwnydd,3333,communist,3333
+cyfraniad,3334,contribution,3334
+cogydd,3335,cook,3335
+ffynnon,3336,fountain,3336
+cadarnhad,3337,affirmation,3337
+diffyg,3338,defect,3338
+lled,3339,breadth,3339
+arfaeth,3340,design,3340
+ceryddu,3341,to  chastise,3341
+cynorthwyo,3342,to  assist,3342
+cystadlu,3343,to compete,3343
+caledu,3344,to harden,3344
+llywodraethu,3345,to rule,3345
+crefu,3346,to crave,3346
+gwylchu,3347,to wet,3347
+ethol,3348,to elect,3348
+blodeuyn,3349,to blossom,3349
+ymdrechu,3350,to strive,3350
+clustog,3351,cushion,3351
+meichiau,3352,bail,3352
+grym,3353,force,3353
+elor,3354,bier,3354
+ffermdy,3355,farmhouse,3355
+cymdeithas,3356,community,3356
+tawelwch,3357,calm,3357
+rhaeadr,3358,waterfall,3358
+ysmotyn,3359,spot,3359
+haint,3360,faint,3360
+alltudio,3361,to banish,3361
+adolygu,3362,to review,3362
+dadlennu,3363,to disclose,3363
+rhythu,3364,to gape,3364
+casglu,3365,to gather,3365
+ymneilltuo,3366,to  retire,3366
+nyddu,3367,to twist,3367
+ysu,3368,to consume,3368
+cyfodi,3369,to arise,3369
+diffinio,3370,to define,3370
+amarch,3371,dishonor,3371
+bwrdd,3372,board,3372
+lliw,3373,dye,3373
+dial,3374,vengeance,3374
+gwroldeb,3375,bravery,3375
+cosb,3376,penalty,3376
+cyfrif,3377,reckoning,3377
+balchder,3378,pride,3378
+arlunydd,3379,artist,3379
+ieitheg,3380,philology,3380
+canfod,3381,to perceive,3381
+anghoelio,3382,to  disbelieve,3382
+symud,3383,to remove,3383
+blingo,3384,to flay,3384
+meddwl,3385,to deem,3385
+llusgo,3386,to drag,3386
+darostwng,3387,to  humiliate,3387
+cynhyrfu,3388,to  agitate,3388
+ennyn,3389,to kindle,3389
+caethiwo,3390,to confine,3390
+dirywiad,3391,degeneration,3391
+gorchymyn,3392,commandment,3392
+tylwyth,3393,clan,3393
+llynges,3394,fleet,3394
+malais,3395,malice,3395
+ymgyrch,3396,campaign,3396
+bargyfreithiwr,3397,advocate,3397
+anian,3398,instinct,3398
+pleth,3399,braid,3399
+bron,3400,breast,3400
+gofidio,3401,to grieve,3401
+prisio,3402,to  appreciate,3402
+bwriadu,3403,to intend,3403
+disgyn,3404,to dismount,3404
+dadlau,3405,to plead,3405
+bloesgi,3406,to  stutter,3406
+gwallgofi,3407,to madden,3407
+elwa,3408,to profit,3408
+cludo,3409,to convey,3409
+gwthio,3410,to  jostle,3410
+cysgod,3411,shade,3411
+traul,3412,cost,3412
+ciwb,3413,cube,3413
+haerllugrwydd,3414,importunity,3414
+dichell,3415,guile,3415
+darn,3416,fragment,3416
+gof,3417,blacksmith,3417
+gelyniaeth,3418,animosity,3418
+bargen,3419,bargain,3419
+tro,3420,bend,3420
+bradychu,3421,to betray,3421
+datod,3422,to detach,3422
+coethi,3423,to purify,3423
+diosg,3424,to strip,3424
+cuddio,3425,to conceal,3425
+beiddio,3426,to defy,3426
+gwagu,3427,to empty,3427
+dirmygu,3428,to disdain,3428
+eisiau,3429,to need,3429
+delio,3430,to deal,3430
+bagl,3431,crutch,3431
+eisin,3432,bran,3432
+masnach,3433,commerce,3433
+pwys,3434,emphasis,3434
+gollyngdod,3435,absolution,3435
+min,3436,brink,3436
+sylw,3437,notice,3437
+allor,3438,altar,3438
+unigedd,3439,loneliness,3439
+cylch,3440,circle,3440
+poeni,3441,to  torment,3441
+cofio,3442,to  recollect,3442
+crychu,3443,to crease,3443
+llidio,3444,to  inflame,3444
+ymffrostio,3445,to boast,3445
+brawychu,3446,to  terrify,3446
+dyfeisio,3447,to invent,3447
+ymarfer,3448,to  practice,3448
+dymchwelyd,3449,to overthrow,3449
+atseinio,3450,to echo,3450
+pastwn,3451,cudgel,3451
+gwellhad,3452,improvement,3452
+cyffro,3453,emotion,3453
+rhybudd,3454,alarm,3454
+dinesydd,3455,citizen,3455
+dadfeiliad,3456,decay,3456
+niwed,3457,injury,3457
+ystinos,3458,asbestos,3458
+budd,3459,gain,3459
+coron,3460,crown,3460
+hepian,3461,to slumber,3461
+beirniadu,3462,to  criticize,3462
+hocedu,3463,to cheat,3463
+blodeuo,3464,to bloom,3464
+trechu,3465,to overcome,3465
+hongian,3466,to dangle,3466
+chwipio,3467,to slash,3467
+rhuthro,3468,to assault,3468
+bloesgni,3469,to lisp,3469
+taflu,3470,to cast,3470
+clebryn,3471,chatterer,3471
+ymosodiad,3472,attack,3472
+drwg,3473,harm,3473
+gwaharddiad,3474,embargo,3474
+braslun,3475,sketch,3475
+seguryd,3476,idleness,3476
+chwedl,3477,rumor,3477
+breinlen,3478,charter,3478
+cymhariaeth,3479,comparison,3479
+cymrodedd,3480,compromise,3480
+grymial,3481,to mumble,3481
+aros,3482,to abide,3482
+croeshoelio,3483,to crucify,3483
+penodi,3484,to appoint,3484
+drysu,3485,to tangle,3485
+blino,3486,to  irritate,3486
+gweinyddu,3487,to  administer,3487
+cyflymu,3488,to speed,3488
+tramgwyddo,3489,to  stumble,3489
+cymeradwyo,3490,to applaud,3490
+sialc,3491,chalk,3491
+brwydr,3492,battle,3492
+buddugoliaeth,3493,victory,3493
+gweddill,3494,remnant,3494
+cynfas,3495,canvas,3495
+sicrwydd,3496,certainty,3496
+hanes,3497,account,3497
+dychryn,3498,terror,3498
+cynghorwr,3499,counsellor,3499
+cynghreiriad,3500,ally,3500
+cenhedlu,3501,to beget,3501
+ymgynghori,3502,to consult,3502
+gwystlo,3503,to pledge,3503
+eiriol,3504,to advocate,3504
+neidio,3505,to leap,3505
+ystumio,3506,to  distort,3506
+plastro,3507,to  plaster,3507
+gweithio,3508,to exploit,3508
+maglu,3509,to trap,3509
+cyfrodeddu,3510,to twine,3510
+swp,3511,cluster,3511
+unbennaeth,3512,sovereignty,3512
+hunanoldeb,3513,conceit,3513
+bidog,3514,dagger,3514
+gwladwr,3515,peasant,3515
+talaith,3516,state,3516
+cynhadledd,3517,convention,3517
+rhathell,3518,rasp,3518
+bathodyn,3519,badge,3519
+calon,3520,core,3520
+atafaelu,3521,to  confiscate,3521
+dirywio,3522,to  deteriorate,3522
+gloywi,3523,to  clarify,3523
+diferu,3524,to drain,3524
+disbyddu,3525,to exhaust,3525
+cymorth,3526,to  assist,3526
+cnoi,3527,to chew,3527
+ffugio,3528,to affect,3528
+odli,3529,to rhyme,3529
+dallu,3530,to blind,3530
+cam,3531,wrong,3531
+cynllwyn,3532,ambush,3532
+iarlles,3533,countess,3533
+gofid,3534,sorrow,3534
+capel,3535,chapel,3535
+teimlad,3536,feeling,3536
+cynnud,3537,fuel,3537
+pig,3538,point,3538
+trychineb,3539,disaster,3539
+addurn,3540,adornment,3540
+llonyddu,3541,to appease,3541
+rheoli,3542,to rule,3542
+dirnad,3543,to apprehend,3543
+addurno,3544,to adorn,3544
+diddymu,3545,to annul,3545
+ymryson,3546,to contend,3546
+datguddio,3547,to disclose,3547
+tagu,3548,to  strangle,3548
+cynnull,3549,to gather,3549
+tywallt,3550,to shed,3550
+llyn,3551,pool,3551
+cesail,3552,armpit,3552
+adfyd,3553,calamity,3553
+ehangder,3554,breadth,3554
+dadl,3555,dispute,3555
+llys,3556,hall,3556
+echel,3557,axle,3557
+gwystl,3558,bail,3558
+chwarae,3559,play,3559
+rhifyddeg,3560,arithmetic,3560
+diwyllio,3561,to  cultivate,3561
+esgymuno,3562,to  excommunicate ,3562
+estyn,3563,to extend,3563
+cyflwyno,3564,to dedicate,3564
+chwennych,3565,to covet,3565
+llunio,3566,to shape,3566
+gwyro,3567,to digress,3567
+achosi,3568,to incur,3568
+oedi,3569,to defer,3569
+llygru,3570,to corrupt,3570
+ysbeiliwr,3571,bandit,3571
+gorlifiad,3572,overflow,3572
+blaenor,3573,chieftain,3573
+llysgenhadaeth,3574,embassy,3574
+darganfyddiad,3575,discovery,3575
+adran,3576,section,3576
+chwaraedy,3577,theater,3577
+chwarren,3578,kernel,3578
+diffynnydd,3579,defendant,3579
+llysieuwr,3580,vegetarian,3580
+swyno,3581,to charm,3581
+gwingo,3582,to wriggle,3582
+aflonyddu,3583,to  agitate,3583
+dileu,3584,to abolish,3584
+lledu,3585,to widen,3585
+twyllo,3586,to cheat,3586
+brecio,3587,to brake,3587
+ceryddu,3588,to chide,3588
+rhyddhau,3589,to absolve,3589
+arholi,3590,to examine,3590
+chwerwedd,3591,bitterness,3591
+difyrrwch,3592,amusement,3592
+agoriad,3593,opening,3593
+bwa,3594,arch,3594
+llwyth,3595,clan,3595
+maint,3596,quantity,3596
+rhod,3597,orbit,3597
+diogelwch,3598,safety,3598
+alltud,3599,exile,3599
+defod,3600,ceremony,3600
+gwersyllu,3601,to encamp,3601
+diffeithio,3602,to  devastate,3602
+llosgi,3603,to scorch,3603
+gwerthfawrogi,3604,to  appreciate,3604
+cynnws,3605,to embrace,3605
+lleihau,3606,to decrease,3606
+difyrru,3607,to delight,3607
+danfon,3608,to convey,3608
+glynu,3609,to stick,3609
+cenfigennu,3610,to envy,3610
+marchog,3611,knight,3611
+amddiffynnwr,3612,defender,3612
+amdiffyn,3613,defence,3613
+cil,3614,cud,3614
+dolur,3615,grief,3615
+disgownt,3616,discount,3616
+anabledd,3617,inability,3617
+rhodres,3618,affectation,3618
+optimistiaeth,3619,optimism,3619
+cyflog,3620,hire,3620
+glanio,3621,to  disembark,3621
+didynnu,3622,to deduct,3622
+rhwystro,3623,to block,3623
+puro,3624,to purify,3624
+pechu,3625,to offend,3625
+gwaradwyddo,3626,to shame,3626
+cyfesur,3627,to  coordinate,3627
+poeni,3628,to annoy,3628
+crychu,3629,to  ruffle,3629
+dwyrannu,3630,to bisect,3630
+goruchwyliwr,3631,supervisor,3631
+cor,3632,dwarf,3632
+ymreolaeth,3633,self-government,3633
+antur,3634,adventure,3634
+corcyn,3635,cork,3635
+ymrwymiad,3636,engagement,3636
+aradr,3637,plow,3637
+glan,3638,brink,3638
+peirianneg,3639,engineering,3639
+pentwr,3640,pile,3640
+herio,3641,to defy,3641
+trydar,3642,to  chatter,3642
+dyfeisio,3643,to devise,3643
+camddefnyddio,3644,to misuse,3644
+canfod,3645,to discern,3645
+ymarfer,3646,to exercise,3646
+angen,3647,to need,3647
+halogi,3648,to pollute,3648
+gadael,3649,to desert,3649
+cymynnu,3650,to bequeath,3650
+argoel,3651,omen,3651
+cornwyd,3652,abscess,3652
+rhwymyn,3653,band,3653
+ynfydrwydd,3654,folly,3654
+ewig,3655,doe,3655
+corwynt,3656,whirlwind,3656
+perarogl,3657,aroma,3657
+arweinydd,3658,leader,3658
+ysbryd,3659,spirit,3659
+ffefryn,3660,favorite,3660
+anelu,3661,to aim,3661
+atseinio,3662,to ring,3662
+blodeuo,3663,to flower,3663
+llusgo,3664,to  trail,3664
+cynhyrfu,3665,to excite,3665
+gwrthgyferbynnu,3666,to  contrast,3666
+ennyn,3667,to  inflame,3667
+crogi,3668,to suspend,3668
+adfywio,3669,to revive,3669
+gwaddoli,3670,to endow,3670
+ysgariad,3671,separation,3671
+arwydd,3672,signal,3672
+ffoadur,3673,refugee,3673
+arwynebedd,3674,surface,3674
+crib,3675,ridge,3675
+poen,3676,torment,3676
+ffos,3677,trench,3677
+tawelwch,3678,calmness,3678
+croen,3679,hide,3679
+atgasrwydd,3680,abhorrence,3680
+dominyddu,3681,to dominate,3681
+cloffi,3682,to cripple,3682
+drysu,3683,to perplex,3683
+cofrestru,3684,to enroll,3684
+blino,3685,to trouble,3685
+cynghori,3686,to counsel,3686
+gwthio,3687,to shove,3687
+disgyn,3688,to alight,3688
+ymageru,3689,to evaporate,3689
+cynllunio,3690,to plan,3690
+ffrwyn,3691,bridle,3691
+athrod,3692,slander,3692
+porth,3693,porch,3693
+blas,3694,relish,3694
+grawnwin,3695,grapes,3695
+cosb,3696,punishment,3696
+awel,3697,breeze,3697
+gallu,3698,ability,3698
+dirywiad,3699,decadence,3699
+cydsyniad,3700,assent,3700
+dofi,3701,to appease,3701
+rhyfeddu,3702,to amaze,3702
+dyrchafu,3703,to exalt,3703
+maglu,3704,to mesh,3704
+cyfrodeddu,3705,to twist,3705
+rhagod,3706,to ambush,3706
+tystio,3707,to  attest,3707
+hollti,3708,to crack,3708
+datod,3709,to  disentangle,3709
+cyfnewid,3710,to exchange,3710
+gwaddod,3711,sediment,3711
+ewig,3712,hind,3712
+cyfyngder,3713,distress,3713
+cynnwrf,3714,excitement,3714
+arferiad,3715,custom,3715
+terfysg,3716,riot,3716
+ymgyrch,3717,expedition,3717
+casineb,3718,hatred,3718
+castell,3719,citadel,3719
+tynged,3720,destiny,3720
+cyflawni,3721,to  perform,3721
+dadansoddi,3722,to analyze,3722
+amaethu,3723,to  cultivate,3723
+anufuddhau,3724,to disobey,3724
+cylchredeg,3725,to  circulate,3725
+atafaelu,3726,to attach,3726
+ystyried,3727,to heed,3727
+dirywio,3728,to degenerate,3728
+dirnad,3729,to conceive,3729
+cysegru,3730,to dedicate,3730
+ymborth,3731,diet,3731
+llin,3732,flax,3732
+trefn,3733,arrangement,3733
+cenfigen,3734,jealousy,3734
+lludw,3735,ash,3735
+cytgan,3736,refrain,3736
+troseddwr,3737,convict,3737
+cennad,3738,messenger,3738
+cerddor,3739,singer,3739
+lluniad,3740,drawing,3740
+ffyrnigo,3741,to enrage,3741
+ymadfer,3742,to convalesce,3742
+palu,3743,to dig,3743
+llidio,3744,to anger,3744
+ymlynu,3745,to adhere,3745
+hudo,3746,to charm,3746
+brawychu,3747,to dismay,3747
+deffro,3748,to arouse,3748
+tolchi,3749,to clot,3749
+anffurfio,3750,to deform,3750
+cywirdeb,3751,accuracy,3751
+abwyd,3752,bait,3752
+masnach,3753,trade,3753
+anfantais,3754,disadvantage,3754
+clerc,3755,clerk,3755
+undod,3756,unity,3756
+disgwyliad,3757,expectation,3757
+wyneb,3758,area,3758
+anghysur,3759,discomfort,3759
+disgyblaeth,3760,discipline,3760
+cleisio,3761,to bruise,3761
+atal,3762,to  arrest,3762
+archwilio,3763,to examine,3763
+llefain,3764,to cry,3764
+ymffrostio,3765,to brag,3765
+deifio,3766,to scorch,3766
+magu,3767,to rear,3767
+cyfateb,3768,to correspond,3768
+cymorth,3769,to aid,3769
+diddymu,3770,to  annihilate,3770
+mesur,3771,bill,3771
+cloff,3772,cripple,3772
+anhrefn,3773,confusion,3773
+yfwr,3774,drinker,3774
+pastwn,3775,club,3775
+clogwyn,3776,precipice,3776
+dwrn,3777,handle,3777
+meudwy,3778,recluse,3778
+annedd,3779,abode,3779
+trwyn,3780,point,3780
+tolcio,3781,to dent,3781
+echdynnu,3782,to  extract,3782
+hebrwng,3783,to convey,3783
+llygadrhythu,3784,to stare,3784
+addurno,3785,to decorate,3785
+addysgu,3786,to educate,3786
+cynanu,3787,to  articulate,3787
+dyblu,3788,to double,3788
+cydweithio,3789,to cooperate,3789
+annerch,3790,to salute,3790
+ehangiad,3791,expansion,3791
+cnwd,3792,crop,3792
+unbennaeth,3793,autocracy,3793
+ymddygiad,3794,demeanour,3794
+oediad,3795,delay,3795
+dadfeiliad,3796,decline,3796
+eiriolwr,3797,mediator,3797
+niwed,3798,harm,3798
+ansawdd,3799,state,3799
+oerni,3800,coldness,3800
+ceulo,3801,to coagulate,3801
+hepian,3802,to doze,3802
+wynebu,3803,to face,3803
+ysgaru,3804,to divorce,3804
+achosi,3805,to cause,3805
+rheibio,3806,to bewitch,3806
+addoli,3807,to worship,3807
+llwgrwobrwyo,3808,to bribe,3808
+torchi,3809,to coil,3809
+gwingo,3810,to kick,3810
+coes,3811,stem,3811
+cydymaith,3812,comrade,3812
+galwad,3813,call,3813
+awen,3814,rein,3814
+cydymdeimlad,3815,sympathy,3815
+awgrym,3816,suggestion,3816
+clebryn,3817,tattler,3817
+balchder,3818,glory,3818
+cyfarchiad,3819,salutation,3819
+gwaharddiad,3820,prohibition,3820
+dileu,3821,to  eliminate,3821
+byclu,3822,to buckle,3822
+llewygu,3823,to faint,3823
+niweidio,3824,to injure,3824
+rhyddhau,3825,to exempt,3825
+rhybuddio,3826,to admonish,3826
+colli,3827,to spill,3827
+bwrw,3828,to shed,3828
+llygru,3829,to  adulterate,3829
+erfyn,3830,to  entreat,3830
+prentis,3831,apprentice,3831
+cyhoeddiad,3832,announcement,3832
+cyfrif,3833,account,3833
+braslun,3834,outline,3834
+cyfeillach,3835,companionship,3835
+beirniad,3836,critic,3836
+cyff,3837,stock,3837
+glwth,3838,couch,3838
+profiad,3839,experience,3839
+dychryn,3840,alarm,3840
+nyddu,3841,to spin,3841
+difyrru,3842,to  entertain,3842
+blaguro,3843,to bud,3843
+glanio,3844,to land,3844
+llonyddu,3845,to calm,3845
+treio,3846,to ebb,3846
+synnu,3847,to amaze,3847
+adrodd,3848,to  relate,3848
+brysio,3849,to hasten,3849
+gwaradwyddo,3850,to disgrace,3850
+hunanoldeb,3851,selfishness,3851
+cam,3852,injury,3852
+teimlad,3853,emotion,3853
+twyll,3854,deceit,3854
+ysbeiliwr,3855,brigand,3855
+chwyldro,3856,rotation,3856
+blaenor,3857,leader,3857
+porthladd,3858,haven,3858
+gwahardd,3859,veto,3859
+cyffro,3860,excitement,3860
+gorfodi,3861,to compel,3861
+poeni,3862,to grieve,3862
+crychu,3863,to ripple,3863
+chwarae,3864,to  perform,3864
+golygu,3865,to edit,3865
+llacio,3866,to slacken,3866
+camddefnyddio,3867,to abuse,3867
+camu,3868,to stride,3868
+halogi,3869,to defile,3869
+berwi,3870,to  effervesce,3870
+cymhlethu,3871,to  complicate,3871
+sythu,3872,to  straighten,3872
+cloddio,3873,to dig,3873
+cyfansoddi,3874,to compose,3874
+ymatal,3875,to forbear,3875
+crwydro,3876,to  stroll,3876
+ysigo,3877,to bruise,3877
+dal,3878,to  arrest,3878
+wylo,3879,to cry,3879
+brolio,3880,to brag,3880
+blino,3881,to vex,3881
+maethu,3882,to nurture,3882
+gwasgu,3883,to compress,3883
+darparu,3884,to provide,3884
+awgrymu,3885,to hint,3885
+trochi,3886,to dip,3886
+rhwystro,3887,to obstruct,3887
+amryfuso,3888,to blunder,3888
+dofi,3889,to  domesticate,3889
+sylwi,3890,to comment,3890
+addef,3891,to concede,3891
+cerfio,3892,to carve,3892
+ceryddu,3893,to rebuke,3893
+arfaethu,3894,to design,3894
+chwilio,3895,to search,3895
+gogwyddo,3896,to incline,3896
+cyflawni,3897,to execute,3897
+amlygu,3898,to  manifest,3898
+amneidio,3899,to beckon,3899
+arwyddo,3900,to denote,3900
+cyfarch,3901,to salute,3901
+ysu,3902,to erode,3902
+cynorthwyo,3903,to aid,3903
+yfed,3904,to absorb,3904
+anghytuno,3905,to  conflict,3905
+dadlau,3906,to advocate,3906
+caethiwo,3907,to cramp,3907
+cyflymu,3908,to  accelerate,3908
+galluogi,3909,to enable,3909
+hudo,3910,to coax,3910
+difwyno,3911,to soil,3911
+gostwng,3912,to depress,3912
+rhathu,3913,to file,3913
+gwystlo,3914,to pawn,3914
+haeru,3915,to  affirm,3915
+amgylchu,3916,to  encircle,3916
+gwatwar,3917,to deride,3917
+tywallt,3918,to spill,3918
+tawelu,3919,to calm,3919
+mynegi,3920,to  relate,3920
+cymell,3921,to compel,3921
+llongyfarch,3922,to  congratulate,3922
+eplesu,3923,to  ferment,3923
+achub,3924,to rescue,3924
+cyfarfod,3925,to encounter,3925
+llunio,3926,to  construct,3926
+gweddu,3927,to befit,3927
+heneiddio,3928,to age,3928
+disgleirio,3929,to dazzle,3929
+amaethu,3930,to farm,3930
+oeri,3931,to cool,3931
+herio,3932,to challenge,3932
+cysylltu,3933,to connect,3933
+peryglu,3934,to endanger,3934
+anobeithio,3935,to despair,3935
+preswylio,3936,to reside,3936
+byrhau,3937,to  contract,3937
+codi,3938,to erect,3938
+hollti,3939,to split,3939
+darostwng,3940,to abase,3940
+wynebu,3941,to confront,3941
+drysu,3942,to bewilder,3942
+dileu,3943,to cancel,3943
+anghoelio,3944,to  discredit,3944
+taro,3945,to hit,3945
+anfon,3946,to  transmit,3946
+angori,3947,to anchor,3947
+clindarddach,3948,to crackle,3948
+cwyro,3949,to wax,3949
+clebran,3950,to babble,3950
+newid,3951,to convert,3951
+dirnad,3952,to comprehend,3952
+esbonio,3953,to expound,3953
+igian,3954,to hiccup,3954
+diddymu,3955,to abolish,3955
+llywodraethu,3956,to govern,3956
+disgwyl,3957,to  anticipate,3957
+lladrata,3958,to thieve,3958
+digio,3959,to offend,3959
+coroni,3960,to crown,3960
+swyddogol,3961,official,3961
+gwael,3962,vile,3962
+wythfed,3963,eighth,3963
+diogel,3964,safe,3964
+diwair,3965,chaste,3965
+prysur,3966,diligent,3966
+hen,3967,antique,3967
+serth,3968,steep,3968
+diflas,3969,boring,3969
+rhydd,3970,exempt,3970
+ffrwydro,3971,to explode,3971
+poeni,3972,to ache,3972
+ymddeol,3973,to abdicate,3973
+petruso,3974,to  falter,3974
+darlunio,3975,to depict,3975
+trigo,3976,to abide,3976
+oedi,3977,to postpone,3977
+rhestru,3978,to list,3978
+colli,3979,to shed,3979
+gwingo,3980,to writhe,3980
+cyfrif,3981,to account,3981
+lledu,3982,to expand,3982
+cyfuno,3983,to combine,3983
+sugno,3984,to absorb,3984
+ymdroi,3985,to dawdle,3985
+cefnogi,3986,to advocate,3986
+dynwared,3987,to ape,3987
+cablu,3988,to blaspheme,3988
+blingo,3989,to skin,3989
+dal,3990,to capture,3990
+gwrthdaro,3991,to collide,3991
+plethu,3992,to braid,3992
+blino,3993,to ail,3993
+troi,3994,to crank,3994
+glynu,3995,to attach,3995
+ymlusgo,3996,to crawl,3996
+maglu,3997,to snare,3997
+ceulo,3998,to curdle,3998
+rhwystro,3999,to  embarrass,3999
+cywiro,4000,to revise,4000
+ehangu,4001,to extend,4001
+allfudo,4002,to  emigrate,4002
+cyfeiliorni,4003,to err,4003
+anesmwytho,4004,to  disquiet,4004
+cynhyrfu,4005,to  ferment,4005
+ffafrio,4006,to favor,4006
+ffugio,4007,to forge,4007
+ceryddu,4008,to admonish,4008
+adeiladu,4009,to  construct,4009
+dallu,4010,to dazzle,4010
+gwaedlyd,4011,bloody,4011
+ffyrnig,4012,savage,4012
+digalon,4013,dejected,4013
+rhyfeddol,4014,amazing,4014
+dinesig,4015,civic,4015
+huawdl,4016,eloquent,4016
+gwallus,4017,faulty,4017
+annymunol,4018,unpleasant,4018
+neilltuol,4019,special,4019
+afluniaidd,4020,deformed,4020
+cyflawni,4021,to  fulfil,4021
+cyfarch,4022,to accost,4022
+anfodloni,4023,to  dissatisfy,4023
+anrhydeddu,4024,to honor,4024
+disgyn,4025,to collapse,4025
+gofalu,4026,to mind,4026
+gwareiddio,4027,to  civilize,4027
+arswydo,4028,to shudder,4028
+briwsioni,4029,to crumble,4029
+cau,4030,to block,4030
+llethu,4031,to oppress,4031
+lliwio,4032,to color,4032
+lloni,4033,to  exhilarate,4033
+cloddio,4034,to excavate,4034
+cloffi,4035,to lame,4035
+llonyddu,4036,to quiet,4036
+llusgo,4037,to drawl,4037
+llychwino,4038,to sully,4038
+ysu,4039,to itch,4039
+anghytuno,4040,to disagree,4040
+cofrestru,4041,to  register,4041
+meithrin,4042,to foster,4042
+dyfalu,4043,to divine,4043
+hudo,4044,to decoy,4044
+cymhwyso,4045,to apply,4045
+swyno,4046,to entrance,4046
+argyhoeddi,4047,to convict,4047
+taclu,4048,to accoutre,4048
+cystuddio,4049,to trouble,4049
+trosglwyddo,4050,to  transfer,4050
+dadfeilio,4051,to decay,4051
+dadlau,4052,to argue,4052
+tyrru,4053,to crowd,4053
+dibrisio,4054,to  depreciate,4054
+tystio,4055,to  testify,4055
+rheoli,4056,to govern,4056
+tramgwyddo,4057,to offend,4057
+dileu,4058,to annul,4058
+poeni,4059,to vex,4059
+dileu,4060,to erase,4060
